@@ -1,0 +1,1591 @@
+13:11:58,283 root INFO Program FHD_100 calculation (in sec.): 5.558049917221069
+13:11:58,295 root INFO Program FHD_100 stats calculation (in sec.): 0.012006044387817383
+13:12:02,573 root INFO Program FHD_100 calculation (in sec.): 9.848240852355957
+13:12:02,595 root INFO Program FHD_100 stats calculation (in sec.): 0.022169113159179688
+13:12:07,132 root INFO Program FHD_100 calculation (in sec.): 14.407113075256348
+13:12:07,144 root INFO Program FHD_100 stats calculation (in sec.): 0.012071847915649414
+13:12:11,759 root INFO Program FHD_100 calculation (in sec.): 19.034770965576172
+13:12:11,776 root INFO Program FHD_100 stats calculation (in sec.): 0.016488075256347656
+13:15:10,636 root INFO Program FHD_100 calculation (in sec.): 6.076734781265259
+13:15:10,649 root INFO Program FHD_100 stats calculation (in sec.): 0.0135040283203125
+13:15:14,810 root INFO Program FHD_100 calculation (in sec.): 10.25068473815918
+13:15:14,827 root INFO Program FHD_100 stats calculation (in sec.): 0.017611026763916016
+13:15:53,293 root INFO Program FHD_100 calculation (in sec.): 5.904174089431763
+13:15:53,305 root INFO Program FHD_100 stats calculation (in sec.): 0.01246786117553711
+13:15:57,993 root INFO Program FHD_100 calculation (in sec.): 10.604455947875977
+13:15:58,7 root INFO Program FHD_100 stats calculation (in sec.): 0.013306140899658203
+13:16:02,475 root INFO Program FHD_100 calculation (in sec.): 15.08638310432434
+13:16:02,486 root INFO Program FHD_100 stats calculation (in sec.): 0.010802030563354492
+13:16:06,792 root INFO Program FHD_100 calculation (in sec.): 19.402817010879517
+13:16:06,813 root INFO Program FHD_100 stats calculation (in sec.): 0.02100515365600586
+13:16:15,914 root INFO Program Fx2_100 calculation (in sec.): 9.101141214370728
+13:16:15,927 root INFO Program Fx2_100 stats calculation (in sec.): 0.012621879577636719
+13:16:24,527 root INFO Program Fx2_100 calculation (in sec.): 17.71405816078186
+13:16:24,538 root INFO Program Fx2_100 stats calculation (in sec.): 0.011526823043823242
+13:16:33,24 root INFO Program Fx2_100 calculation (in sec.): 26.21132802963257
+13:16:33,38 root INFO Program Fx2_100 stats calculation (in sec.): 0.013506174087524414
+13:16:41,528 root INFO Program Fx2_100 calculation (in sec.): 34.714874029159546
+13:16:41,539 root INFO Program Fx2_100 stats calculation (in sec.): 0.011016130447387695
+13:16:50,379 root INFO Program Fx2_100 calculation (in sec.): 43.56626105308533
+13:16:50,395 root INFO Program Fx2_100 stats calculation (in sec.): 0.015722036361694336
+13:17:05,322 root INFO Program FHD calculation (in sec.): 5.049408912658691
+13:17:05,344 root INFO Program FHD stats calculation (in sec.): 0.022732019424438477
+13:17:09,633 root INFO Program FHD calculation (in sec.): 9.360941886901855
+13:17:09,649 root INFO Program FHD stats calculation (in sec.): 0.01562809944152832
+13:17:14,43 root INFO Program FHD calculation (in sec.): 13.770737171173096
+13:17:14,90 root INFO Program FHD stats calculation (in sec.): 0.047609806060791016
+13:17:18,816 root INFO Program FHD calculation (in sec.): 18.544353008270264
+13:17:18,830 root INFO Program FHD stats calculation (in sec.): 0.013527870178222656
+13:17:27,29 root INFO Program Fx2 calculation (in sec.): 8.198697805404663
+13:17:27,53 root INFO Program Fx2 stats calculation (in sec.): 0.024404048919677734
+13:17:36,69 root INFO Program Fx2 calculation (in sec.): 17.238255739212036
+13:17:36,81 root INFO Program Fx2 stats calculation (in sec.): 0.012274026870727539
+13:17:44,244 root INFO Program Fx2 calculation (in sec.): 25.41399383544922
+13:17:44,255 root INFO Program Fx2 stats calculation (in sec.): 0.010653972625732422
+13:17:52,965 root INFO Program Fx2 calculation (in sec.): 34.134685754776
+13:17:52,987 root INFO Program Fx2 stats calculation (in sec.): 0.022547006607055664
+13:18:01,251 root INFO Program Fx2 calculation (in sec.): 42.420976877212524
+13:18:01,266 root INFO Program Fx2 stats calculation (in sec.): 0.01467585563659668
+13:18:09,968 root INFO Program Fx2 calculation (in sec.): 51.13739371299744
+13:18:09,983 root INFO Program Fx2 stats calculation (in sec.): 0.015021085739135742
+13:18:17,863 root INFO Program Fx2 calculation (in sec.): 59.032341718673706
+13:18:17,883 root INFO Program Fx2 stats calculation (in sec.): 0.02084207534790039
+13:18:26,775 root INFO Program Fx2 calculation (in sec.): 67.94443678855896
+13:18:26,793 root INFO Program Fx2 stats calculation (in sec.): 0.018471956253051758
+13:18:35,362 root INFO Program F5122subx2 calculation (in sec.): 8.568423986434937
+13:18:35,375 root INFO Program F5122subx2 stats calculation (in sec.): 0.012653112411499023
+13:18:44,551 root INFO Program F5122subx2 calculation (in sec.): 17.757707118988037
+13:18:44,564 root INFO Program F5122subx2 stats calculation (in sec.): 0.012563943862915039
+13:18:53,309 root INFO Program F5122subx2 calculation (in sec.): 26.51547074317932
+13:18:53,323 root INFO Program F5122subx2 stats calculation (in sec.): 0.013756275177001953
+13:19:02,58 root INFO Program F5122subx2 calculation (in sec.): 35.26444983482361
+13:19:02,72 root INFO Program F5122subx2 stats calculation (in sec.): 0.013730049133300781
+13:19:10,910 root INFO Program F5122subx2 calculation (in sec.): 44.1162588596344
+13:19:10,923 root INFO Program F5122subx2 stats calculation (in sec.): 0.01375722885131836
+13:19:20,584 root INFO Program F5122subx2 calculation (in sec.): 53.79051494598389
+13:19:20,598 root INFO Program F5122subx2 stats calculation (in sec.): 0.014404773712158203
+13:19:29,259 root INFO Program F5122subx2 calculation (in sec.): 62.46584391593933
+13:19:29,270 root INFO Program F5122subx2 stats calculation (in sec.): 0.011032819747924805
+13:19:37,639 root INFO Program F5122subx2 calculation (in sec.): 70.84572076797485
+13:19:37,650 root INFO Program F5122subx2 stats calculation (in sec.): 0.010881185531616211
+13:19:43,330 root INFO Noise FConst calculation (in sec.): 5.67962121963501
+13:19:43,330 root INFO Noise FConst stats calculation (in sec.): 0.00033593177795410156
+13:19:43,340 root INFO Program calculation (in sec.): 163.22354102134705
+13:21:20,460 root INFO Program FHD calculation (in sec.): 5.420849323272705
+13:21:20,481 root INFO Program FHD stats calculation (in sec.): 0.021510839462280273
+13:21:25,69 root INFO Program FHD calculation (in sec.): 10.030217170715332
+13:21:25,82 root INFO Program FHD stats calculation (in sec.): 0.013278007507324219
+13:21:29,709 root INFO Program FHD calculation (in sec.): 14.669703960418701
+13:21:29,719 root INFO Program FHD stats calculation (in sec.): 0.01088714599609375
+13:21:34,236 root INFO Program FHD calculation (in sec.): 19.196670055389404
+13:21:34,247 root INFO Program FHD stats calculation (in sec.): 0.011776924133300781
+13:21:42,608 root INFO Program Fx2 calculation (in sec.): 8.360455989837646
+13:21:42,620 root INFO Program Fx2 stats calculation (in sec.): 0.012144804000854492
+13:21:50,938 root INFO Program Fx2 calculation (in sec.): 16.690855026245117
+13:21:50,950 root INFO Program Fx2 stats calculation (in sec.): 0.011245965957641602
+13:21:59,877 root INFO Program Fx2 calculation (in sec.): 25.62946891784668
+13:21:59,889 root INFO Program Fx2 stats calculation (in sec.): 0.01186680793762207
+13:22:08,581 root INFO Program Fx2 calculation (in sec.): 34.33305501937866
+13:22:08,591 root INFO Program Fx2 stats calculation (in sec.): 0.010807991027832031
+13:22:16,962 root INFO Program Fx2 calculation (in sec.): 42.71419811248779
+13:22:16,976 root INFO Program Fx2 stats calculation (in sec.): 0.013837814331054688
+13:22:25,846 root INFO Program Fx2 calculation (in sec.): 51.59798288345337
+13:22:25,857 root INFO Program Fx2 stats calculation (in sec.): 0.011662960052490234
+13:22:35,711 root INFO Program Fx2 calculation (in sec.): 61.46330714225769
+13:22:35,721 root INFO Program Fx2 stats calculation (in sec.): 0.010499715805053711
+13:22:45,291 root INFO Program Fx2 calculation (in sec.): 71.04326796531677
+13:22:45,317 root INFO Program Fx2 stats calculation (in sec.): 0.02603316307067871
+13:22:53,877 root INFO Program F5122subx2 calculation (in sec.): 8.559539318084717
+13:22:53,890 root INFO Program F5122subx2 stats calculation (in sec.): 0.013574838638305664
+13:23:02,581 root INFO Program F5122subx2 calculation (in sec.): 17.263333320617676
+13:23:02,592 root INFO Program F5122subx2 stats calculation (in sec.): 0.011139869689941406
+13:23:11,232 root INFO Program F5122subx2 calculation (in sec.): 25.915226221084595
+13:23:11,264 root INFO Program F5122subx2 stats calculation (in sec.): 0.03142905235290527
+13:23:19,478 root INFO Program F5122subx2 calculation (in sec.): 34.16088032722473
+13:23:19,491 root INFO Program F5122subx2 stats calculation (in sec.): 0.012489795684814453
+13:23:27,593 root INFO Program F5122subx2 calculation (in sec.): 42.27598738670349
+13:23:27,607 root INFO Program F5122subx2 stats calculation (in sec.): 0.013297796249389648
+13:23:36,497 root INFO Program F5122subx2 calculation (in sec.): 51.1797833442688
+13:23:36,515 root INFO Program F5122subx2 stats calculation (in sec.): 0.0177457332611084
+13:23:45,203 root INFO Program F5122subx2 calculation (in sec.): 59.88535022735596
+13:23:45,225 root INFO Program F5122subx2 stats calculation (in sec.): 0.022279977798461914
+13:23:54,247 root INFO Program F5122subx2 calculation (in sec.): 68.92997932434082
+13:23:54,259 root INFO Program F5122subx2 stats calculation (in sec.): 0.011596918106079102
+13:23:58,783 root INFO Noise FConst calculation (in sec.): 4.524293899536133
+13:23:58,784 root INFO Noise FConst stats calculation (in sec.): 0.00024127960205078125
+13:23:58,794 root INFO Program calculation (in sec.): 163.78782105445862
+13:31:04,272 root INFO Program FHD calculation (in sec.): 5.639434099197388
+13:31:04,295 root INFO Program FHD stats calculation (in sec.): 0.022615909576416016
+13:31:08,957 root INFO Program FHD calculation (in sec.): 10.32436203956604
+13:31:08,968 root INFO Program FHD stats calculation (in sec.): 0.011369943618774414
+13:31:12,981 root INFO Program FHD calculation (in sec.): 14.34799313545227
+13:31:12,992 root INFO Program FHD stats calculation (in sec.): 0.011219024658203125
+13:31:17,178 root INFO Program FHD calculation (in sec.): 18.54531717300415
+13:31:17,203 root INFO Program FHD stats calculation (in sec.): 0.02478790283203125
+13:31:25,338 root INFO Program Fx2 calculation (in sec.): 8.135379076004028
+13:31:25,350 root INFO Program Fx2 stats calculation (in sec.): 0.011330127716064453
+13:31:34,112 root INFO Program Fx2 calculation (in sec.): 16.9088613986969
+13:31:34,123 root INFO Program Fx2 stats calculation (in sec.): 0.01131582260131836
+13:31:42,524 root INFO Program Fx2 calculation (in sec.): 25.32125425338745
+13:31:42,535 root INFO Program Fx2 stats calculation (in sec.): 0.010779857635498047
+13:31:50,724 root INFO Program Fx2 calculation (in sec.): 33.52074718475342
+13:31:50,734 root INFO Program Fx2 stats calculation (in sec.): 0.010534048080444336
+13:31:58,858 root INFO Program Fx2 calculation (in sec.): 41.654736280441284
+13:31:58,869 root INFO Program Fx2 stats calculation (in sec.): 0.011445045471191406
+13:32:08,597 root INFO Program Fx2 calculation (in sec.): 51.39344525337219
+13:32:08,608 root INFO Program Fx2 stats calculation (in sec.): 0.011705875396728516
+13:32:17,413 root INFO Program Fx2 calculation (in sec.): 60.20957016944885
+13:32:17,429 root INFO Program Fx2 stats calculation (in sec.): 0.016412973403930664
+13:32:26,407 root INFO Program Fx2 calculation (in sec.): 69.20367121696472
+13:32:26,424 root INFO Program Fx2 stats calculation (in sec.): 0.0170590877532959
+13:32:35,167 root INFO Program F5122subx2 calculation (in sec.): 8.741313934326172
+13:32:35,178 root INFO Program F5122subx2 stats calculation (in sec.): 0.011464118957519531
+13:32:44,505 root INFO Program F5122subx2 calculation (in sec.): 18.07943892478943
+13:32:44,516 root INFO Program F5122subx2 stats calculation (in sec.): 0.011487007141113281
+13:32:52,990 root INFO Program F5122subx2 calculation (in sec.): 26.56456708908081
+13:32:53,0 root INFO Program F5122subx2 stats calculation (in sec.): 0.010518789291381836
+13:33:01,632 root INFO Program F5122subx2 calculation (in sec.): 35.20645093917847
+13:33:01,643 root INFO Program F5122subx2 stats calculation (in sec.): 0.01114201545715332
+13:33:10,191 root INFO Program F5122subx2 calculation (in sec.): 43.765902042388916
+13:33:10,203 root INFO Program F5122subx2 stats calculation (in sec.): 0.011545896530151367
+13:33:19,560 root INFO Program F5122subx2 calculation (in sec.): 53.135246992111206
+13:33:19,571 root INFO Program F5122subx2 stats calculation (in sec.): 0.011011123657226562
+13:33:27,955 root INFO Program F5122subx2 calculation (in sec.): 61.52943015098572
+13:33:27,965 root INFO Program F5122subx2 stats calculation (in sec.): 0.010634899139404297
+13:33:36,686 root INFO Program F5122subx2 calculation (in sec.): 70.26067113876343
+13:33:36,698 root INFO Program F5122subx2 stats calculation (in sec.): 0.012030839920043945
+13:33:40,972 root INFO Noise FConst calculation (in sec.): 4.273616790771484
+13:33:40,972 root INFO Noise FConst stats calculation (in sec.): 0.0001671314239501953
+13:33:40,982 root INFO Program calculation (in sec.): 162.68166089057922
+13:50:41,559 root INFO Program FHD calculation (in sec.): 5.3399059772491455
+13:50:41,572 root INFO Program FHD stats calculation (in sec.): 0.013554096221923828
+13:50:46,183 root INFO Program FHD calculation (in sec.): 9.964309930801392
+13:50:46,203 root INFO Program FHD stats calculation (in sec.): 0.020164966583251953
+14:02:03,467 root INFO Program FHD calculation (in sec.): 6.010549068450928
+14:02:03,479 root INFO Program FHD stats calculation (in sec.): 0.012908935546875
+14:02:08,582 root INFO Program FHD calculation (in sec.): 11.126142978668213
+14:02:08,594 root INFO Program FHD stats calculation (in sec.): 0.011889934539794922
+14:02:13,7 root INFO Program FHD calculation (in sec.): 15.551136016845703
+14:02:13,17 root INFO Program FHD stats calculation (in sec.): 0.010412931442260742
+14:02:18,424 root INFO Program FHD calculation (in sec.): 20.96765375137329
+14:02:18,435 root INFO Program FHD stats calculation (in sec.): 0.011686325073242188
+14:02:26,606 root INFO Program Fx2 calculation (in sec.): 8.170575141906738
+14:02:26,617 root INFO Program Fx2 stats calculation (in sec.): 0.011177778244018555
+14:02:35,468 root INFO Program Fx2 calculation (in sec.): 17.032438039779663
+14:02:35,485 root INFO Program Fx2 stats calculation (in sec.): 0.01723313331604004
+14:02:43,595 root INFO Program Fx2 calculation (in sec.): 25.15942096710205
+14:02:43,605 root INFO Program Fx2 stats calculation (in sec.): 0.010432958602905273
+14:02:52,442 root INFO Program Fx2 calculation (in sec.): 34.00609302520752
+14:02:52,453 root INFO Program Fx2 stats calculation (in sec.): 0.011700868606567383
+14:03:00,239 root INFO Program Fx2 calculation (in sec.): 41.80301308631897
+14:03:00,262 root INFO Program Fx2 stats calculation (in sec.): 0.023981809616088867
+14:03:08,743 root INFO Program Fx2 calculation (in sec.): 50.30783796310425
+14:03:08,755 root INFO Program Fx2 stats calculation (in sec.): 0.012026071548461914
+14:03:16,796 root INFO Program Fx2 calculation (in sec.): 58.3605010509491
+14:03:16,807 root INFO Program Fx2 stats calculation (in sec.): 0.010575056076049805
+14:03:25,484 root INFO Program Fx2 calculation (in sec.): 67.04882597923279
+14:03:25,496 root INFO Program Fx2 stats calculation (in sec.): 0.011816978454589844
+14:03:33,264 root INFO Program F5122subx2 calculation (in sec.): 7.767944097518921
+14:03:33,280 root INFO Program F5122subx2 stats calculation (in sec.): 0.015171051025390625
+14:03:41,782 root INFO Program F5122subx2 calculation (in sec.): 16.285956144332886
+14:03:41,794 root INFO Program F5122subx2 stats calculation (in sec.): 0.01125788688659668
+14:03:49,672 root INFO Program F5122subx2 calculation (in sec.): 24.17528200149536
+14:03:49,684 root INFO Program F5122subx2 stats calculation (in sec.): 0.011780023574829102
+14:03:58,598 root INFO Program F5122subx2 calculation (in sec.): 33.10161018371582
+14:03:58,610 root INFO Program F5122subx2 stats calculation (in sec.): 0.011965751647949219
+14:04:06,532 root INFO Program F5122subx2 calculation (in sec.): 41.0351459980011
+14:04:06,551 root INFO Program F5122subx2 stats calculation (in sec.): 0.01966118812561035
+14:04:15,513 root INFO Program F5122subx2 calculation (in sec.): 50.01611614227295
+14:04:15,526 root INFO Program F5122subx2 stats calculation (in sec.): 0.013251066207885742
+14:04:23,867 root INFO Program F5122subx2 calculation (in sec.): 58.37092113494873
+14:04:23,880 root INFO Program F5122subx2 stats calculation (in sec.): 0.01240086555480957
+14:04:33,505 root INFO Program F5122subx2 calculation (in sec.): 68.00878405570984
+14:04:33,519 root INFO Program F5122subx2 stats calculation (in sec.): 0.013653993606567383
+14:04:37,856 root INFO Noise FConst calculation (in sec.): 4.336408853530884
+14:04:37,856 root INFO Noise FConst stats calculation (in sec.): 0.0002651214599609375
+14:04:37,866 root INFO Program calculation (in sec.): 160.47806310653687
+05:39:17,693 root INFO Program FHD calculation (in sec.): 5.710973024368286
+05:39:17,706 root INFO Program FHD stats calculation (in sec.): 0.013784646987915039
+05:39:22,407 root INFO Program FHD calculation (in sec.): 10.425296783447266
+05:39:22,418 root INFO Program FHD stats calculation (in sec.): 0.011118173599243164
+05:39:26,961 root INFO Program FHD calculation (in sec.): 14.979575872421265
+05:39:26,976 root INFO Program FHD stats calculation (in sec.): 0.01497793197631836
+05:39:31,705 root INFO Program FHD calculation (in sec.): 19.723439931869507
+05:39:31,723 root INFO Program FHD stats calculation (in sec.): 0.017750978469848633
+05:39:39,885 root INFO Program Fx2 calculation (in sec.): 8.161573886871338
+05:39:39,896 root INFO Program Fx2 stats calculation (in sec.): 0.010994911193847656
+05:39:48,617 root INFO Program Fx2 calculation (in sec.): 16.893998861312866
+05:39:48,628 root INFO Program Fx2 stats calculation (in sec.): 0.011023998260498047
+05:39:56,933 root INFO Program Fx2 calculation (in sec.): 25.209419012069702
+05:39:56,961 root INFO Program Fx2 stats calculation (in sec.): 0.028863906860351562
+05:40:06,85 root INFO Program Fx2 calculation (in sec.): 34.36136198043823
+05:40:06,95 root INFO Program Fx2 stats calculation (in sec.): 0.010790824890136719
+05:40:14,30 root INFO Program Fx2 calculation (in sec.): 42.306723833084106
+05:40:14,54 root INFO Program Fx2 stats calculation (in sec.): 0.024096965789794922
+05:40:22,747 root INFO Program Fx2 calculation (in sec.): 51.02400279045105
+05:40:22,760 root INFO Program Fx2 stats calculation (in sec.): 0.012705087661743164
+05:40:31,293 root INFO Program Fx2 calculation (in sec.): 59.56994390487671
+05:40:31,305 root INFO Program Fx2 stats calculation (in sec.): 0.011478900909423828
+05:40:40,6 root INFO Program Fx2 calculation (in sec.): 68.28307580947876
+05:40:40,18 root INFO Program Fx2 stats calculation (in sec.): 0.011481046676635742
+05:40:48,204 root INFO Program F5122subx2 calculation (in sec.): 8.185946702957153
+05:40:48,224 root INFO Program F5122subx2 stats calculation (in sec.): 0.020437002182006836
+05:40:57,136 root INFO Program F5122subx2 calculation (in sec.): 17.117645740509033
+05:40:57,146 root INFO Program F5122subx2 stats calculation (in sec.): 0.010873079299926758
+05:41:06,207 root INFO Program F5122subx2 calculation (in sec.): 26.188742876052856
+05:41:06,218 root INFO Program F5122subx2 stats calculation (in sec.): 0.011342048645019531
+05:41:14,559 root INFO Program F5122subx2 calculation (in sec.): 34.54146885871887
+05:41:14,574 root INFO Program F5122subx2 stats calculation (in sec.): 0.014386892318725586
+05:41:23,651 root INFO Program F5122subx2 calculation (in sec.): 43.633479833602905
+05:41:23,663 root INFO Program F5122subx2 stats calculation (in sec.): 0.01111602783203125
+05:41:32,428 root INFO Program F5122subx2 calculation (in sec.): 52.40966081619263
+05:41:32,479 root INFO Program F5122subx2 stats calculation (in sec.): 0.0516209602355957
+05:43:52,632 root INFO Program F5122subx2 calculation (in sec.): 192.61411380767822
+05:43:52,643 root INFO Program F5122subx2 stats calculation (in sec.): 0.011359214782714844
+05:44:03,620 root INFO Program F5122subx2 calculation (in sec.): 203.60244584083557
+05:44:03,632 root INFO Program F5122subx2 stats calculation (in sec.): 0.011088132858276367
+05:44:06,482 root INFO Noise FConst calculation (in sec.): 2.8501009941101074
+05:44:06,482 root INFO Noise FConst stats calculation (in sec.): 0.0002307891845703125
+05:44:06,491 root INFO Program calculation (in sec.): 294.56881308555603
+06:05:48,581 root INFO Program FHD calculation (in sec.): 10.289339780807495
+06:05:48,608 root INFO Program FHD stats calculation (in sec.): 0.027337074279785156
+06:34:16,890 root INFO Program FHD calculation (in sec.): 5.557935953140259
+06:34:16,904 root INFO Program FHD stats calculation (in sec.): 0.014081954956054688
+06:34:21,672 root INFO Program FHD calculation (in sec.): 10.339881896972656
+06:34:21,691 root INFO Program FHD stats calculation (in sec.): 0.01937413215637207
+06:34:26,161 root INFO Program FHD calculation (in sec.): 14.829332828521729
+06:34:26,176 root INFO Program FHD stats calculation (in sec.): 0.015027046203613281
+06:34:31,212 root INFO Program FHD calculation (in sec.): 19.88054585456848
+06:34:31,231 root INFO Program FHD stats calculation (in sec.): 0.01864910125732422
+06:34:39,540 root INFO Program Fx2 calculation (in sec.): 8.308382987976074
+06:34:39,552 root INFO Program Fx2 stats calculation (in sec.): 0.011881351470947266
+06:34:49,145 root INFO Program Fx2 calculation (in sec.): 17.913852214813232
+06:34:49,164 root INFO Program Fx2 stats calculation (in sec.): 0.019090890884399414
+06:34:57,891 root INFO Program Fx2 calculation (in sec.): 26.659300088882446
+06:34:57,902 root INFO Program Fx2 stats calculation (in sec.): 0.011266231536865234
+06:35:07,91 root INFO Program Fx2 calculation (in sec.): 35.85954403877258
+06:35:07,103 root INFO Program Fx2 stats calculation (in sec.): 0.0119171142578125
+06:35:15,677 root INFO Program Fx2 calculation (in sec.): 44.445335149765015
+06:35:15,690 root INFO Program Fx2 stats calculation (in sec.): 0.013314962387084961
+06:35:24,643 root INFO Program Fx2 calculation (in sec.): 53.41181802749634
+06:35:24,667 root INFO Program Fx2 stats calculation (in sec.): 0.023509979248046875
+06:35:33,260 root INFO Program Fx2 calculation (in sec.): 62.028794288635254
+06:35:33,272 root INFO Program Fx2 stats calculation (in sec.): 0.011418819427490234
+06:35:41,775 root INFO Program Fx2 calculation (in sec.): 70.54370617866516
+06:35:41,800 root INFO Program Fx2 stats calculation (in sec.): 0.024619102478027344
+06:35:51,823 root INFO Program F5122subx2 calculation (in sec.): 10.023324012756348
+06:35:51,843 root INFO Program F5122subx2 stats calculation (in sec.): 0.019569873809814453
+06:36:01,992 root INFO Program F5122subx2 calculation (in sec.): 20.192210912704468
+06:36:02,12 root INFO Program F5122subx2 stats calculation (in sec.): 0.01933598518371582
+06:36:10,329 root INFO Program F5122subx2 calculation (in sec.): 28.529202938079834
+06:36:10,342 root INFO Program F5122subx2 stats calculation (in sec.): 0.012887001037597656
+06:36:20,525 root INFO Program F5122subx2 calculation (in sec.): 38.72491192817688
+06:36:20,537 root INFO Program F5122subx2 stats calculation (in sec.): 0.01172184944152832
+06:36:30,141 root INFO Program F5122subx2 calculation (in sec.): 48.34080386161804
+06:36:30,153 root INFO Program F5122subx2 stats calculation (in sec.): 0.011913299560546875
+06:36:38,735 root INFO Program F5122subx2 calculation (in sec.): 56.934597969055176
+06:36:38,746 root INFO Program F5122subx2 stats calculation (in sec.): 0.011294841766357422
+06:36:48,122 root INFO Program F5122subx2 calculation (in sec.): 66.32210493087769
+06:36:48,133 root INFO Program F5122subx2 stats calculation (in sec.): 0.010985136032104492
+06:36:57,439 root INFO Program F5122subx2 calculation (in sec.): 75.63857698440552
+06:36:57,450 root INFO Program F5122subx2 stats calculation (in sec.): 0.011012077331542969
+06:37:02,254 root INFO Noise FConst calculation (in sec.): 4.804294109344482
+06:37:02,254 root INFO Noise FConst stats calculation (in sec.): 0.00029921531677246094
+06:37:02,264 root INFO Program calculation (in sec.): 170.97237491607666
+06:38:07,498 root INFO Program FHD calculation (in sec.): 6.8115150928497314
+06:38:07,510 root INFO Program FHD stats calculation (in sec.): 0.012607097625732422
+06:38:12,66 root INFO Program FHD calculation (in sec.): 11.379619121551514
+06:38:12,80 root INFO Program FHD stats calculation (in sec.): 0.01458883285522461
+06:38:16,692 root INFO Program FHD calculation (in sec.): 16.00577998161316
+06:38:16,703 root INFO Program FHD stats calculation (in sec.): 0.011143922805786133
+06:38:21,367 root INFO Program FHD calculation (in sec.): 20.681368112564087
+06:38:21,379 root INFO Program FHD stats calculation (in sec.): 0.011897087097167969
+06:38:30,442 root INFO Program Fx2 calculation (in sec.): 9.062036991119385
+06:38:30,462 root INFO Program Fx2 stats calculation (in sec.): 0.020018815994262695
+06:38:39,632 root INFO Program Fx2 calculation (in sec.): 18.25232982635498
+06:38:39,643 root INFO Program Fx2 stats calculation (in sec.): 0.01087808609008789
+06:38:48,237 root INFO Program Fx2 calculation (in sec.): 26.857421875
+06:38:48,248 root INFO Program Fx2 stats calculation (in sec.): 0.010833024978637695
+06:38:57,305 root INFO Program Fx2 calculation (in sec.): 35.925264835357666
+06:38:57,319 root INFO Program Fx2 stats calculation (in sec.): 0.013317108154296875
+06:39:06,358 root INFO Program Fx2 calculation (in sec.): 44.978174924850464
+06:39:06,370 root INFO Program Fx2 stats calculation (in sec.): 0.011889934539794922
+06:39:15,791 root INFO Program Fx2 calculation (in sec.): 54.41109299659729
+06:39:15,802 root INFO Program Fx2 stats calculation (in sec.): 0.011343955993652344
+06:39:24,22 root INFO Program Fx2 calculation (in sec.): 62.642271995544434
+06:39:24,34 root INFO Program Fx2 stats calculation (in sec.): 0.01225900650024414
+06:39:34,18 root INFO Program Fx2 calculation (in sec.): 72.63769888877869
+06:39:34,34 root INFO Program Fx2 stats calculation (in sec.): 0.015908002853393555
+06:39:43,660 root INFO Program F5122subx2 calculation (in sec.): 9.625841856002808
+06:39:43,671 root INFO Program F5122subx2 stats calculation (in sec.): 0.011696100234985352
+06:39:52,680 root INFO Program F5122subx2 calculation (in sec.): 18.646128177642822
+06:39:52,691 root INFO Program F5122subx2 stats calculation (in sec.): 0.010745763778686523
+06:40:01,584 root INFO Program F5122subx2 calculation (in sec.): 27.549681901931763
+06:40:01,594 root INFO Program F5122subx2 stats calculation (in sec.): 0.010724067687988281
+06:40:11,439 root INFO Program F5122subx2 calculation (in sec.): 37.40477204322815
+06:40:11,458 root INFO Program F5122subx2 stats calculation (in sec.): 0.01885986328125
+06:40:20,682 root INFO Program F5122subx2 calculation (in sec.): 46.64786982536316
+06:40:20,697 root INFO Program F5122subx2 stats calculation (in sec.): 0.015303373336791992
+06:40:29,400 root INFO Program F5122subx2 calculation (in sec.): 55.36572790145874
+06:40:29,411 root INFO Program F5122subx2 stats calculation (in sec.): 0.011254072189331055
+06:40:39,88 root INFO Program F5122subx2 calculation (in sec.): 65.05381488800049
+06:40:39,99 root INFO Program F5122subx2 stats calculation (in sec.): 0.011184930801391602
+06:40:48,746 root INFO Program F5122subx2 calculation (in sec.): 74.71261382102966
+06:40:48,757 root INFO Program F5122subx2 stats calculation (in sec.): 0.01073002815246582
+06:40:54,695 root INFO Noise FConst calculation (in sec.): 5.937585830688477
+06:40:54,695 root INFO Noise FConst stats calculation (in sec.): 0.000202178955078125
+06:40:54,705 root INFO Program calculation (in sec.): 174.35548520088196
+07:06:50,224 root INFO Noise FConst calculation (in sec.): 15.759606122970581
+07:07:38,867 root INFO Noise FConst calculation (in sec.): 10.402281999588013
+07:09:08,616 root INFO Noise FConst calculation (in sec.): 14.281620979309082
+07:09:08,616 root INFO Noise FConst stats calculation (in sec.): 0.0006849765777587891
+07:09:08,626 root INFO Program calculation (in sec.): 14.335763931274414
+07:12:48,53 root INFO Noise FConst calculation (in sec.): 17.096200942993164
+07:12:48,55 root INFO Noise FConst stats calculation (in sec.): 0.002051115036010742
+07:12:48,67 root INFO Program calculation (in sec.): 17.153987646102905
+07:15:43,138 root INFO Noise FConst calculation (in sec.): 13.542919158935547
+07:16:36,567 root INFO Noise FConst stats calculation (in sec.): 53.42932200431824
+07:16:36,589 root INFO Program calculation (in sec.): 67.18970775604248
+07:18:18,385 root INFO Program FHD calculation (in sec.): 6.283896207809448
+07:18:18,398 root INFO Program FHD stats calculation (in sec.): 0.013040781021118164
+07:18:23,627 root INFO Program FHD calculation (in sec.): 11.526463031768799
+07:18:23,640 root INFO Program FHD stats calculation (in sec.): 0.01298213005065918
+07:18:28,513 root INFO Program FHD calculation (in sec.): 16.411752939224243
+07:18:28,523 root INFO Program FHD stats calculation (in sec.): 0.010433197021484375
+07:18:33,475 root INFO Program FHD calculation (in sec.): 21.37434411048889
+07:18:33,487 root INFO Program FHD stats calculation (in sec.): 0.011558055877685547
+07:18:41,770 root INFO Program Fx2 calculation (in sec.): 8.282961130142212
+07:18:41,782 root INFO Program Fx2 stats calculation (in sec.): 0.011733055114746094
+07:18:50,764 root INFO Program Fx2 calculation (in sec.): 17.27703332901001
+07:18:50,779 root INFO Program Fx2 stats calculation (in sec.): 0.014543771743774414
+07:18:59,369 root INFO Program Fx2 calculation (in sec.): 25.88220715522766
+07:18:59,380 root INFO Program Fx2 stats calculation (in sec.): 0.010957002639770508
+07:19:08,836 root INFO Program Fx2 calculation (in sec.): 35.34928822517395
+07:19:08,851 root INFO Program Fx2 stats calculation (in sec.): 0.014666080474853516
+07:19:17,414 root INFO Program Fx2 calculation (in sec.): 43.92718720436096
+07:19:17,426 root INFO Program Fx2 stats calculation (in sec.): 0.01140594482421875
+07:19:26,946 root INFO Program Fx2 calculation (in sec.): 53.458441972732544
+07:19:26,974 root INFO Program Fx2 stats calculation (in sec.): 0.028956174850463867
+07:19:36,292 root INFO Program Fx2 calculation (in sec.): 62.80471611022949
+07:19:36,303 root INFO Program Fx2 stats calculation (in sec.): 0.011355161666870117
+07:19:45,285 root INFO Program Fx2 calculation (in sec.): 71.79742097854614
+07:19:45,296 root INFO Program Fx2 stats calculation (in sec.): 0.011414051055908203
+07:19:54,469 root INFO Program F5122subx2 calculation (in sec.): 9.172425985336304
+07:19:54,481 root INFO Program F5122subx2 stats calculation (in sec.): 0.012003898620605469
+07:20:04,548 root INFO Program F5122subx2 calculation (in sec.): 19.251904010772705
+07:20:04,570 root INFO Program F5122subx2 stats calculation (in sec.): 0.02167987823486328
+07:20:14,353 root INFO Program F5122subx2 calculation (in sec.): 29.057199954986572
+07:20:14,364 root INFO Program F5122subx2 stats calculation (in sec.): 0.010345935821533203
+07:20:23,989 root INFO Program F5122subx2 calculation (in sec.): 38.69311285018921
+07:20:24,1 root INFO Program F5122subx2 stats calculation (in sec.): 0.011622190475463867
+07:20:33,910 root INFO Program F5122subx2 calculation (in sec.): 48.61383891105652
+07:20:33,921 root INFO Program F5122subx2 stats calculation (in sec.): 0.011036157608032227
+07:20:43,298 root INFO Program F5122subx2 calculation (in sec.): 58.00145196914673
+07:20:43,323 root INFO Program F5122subx2 stats calculation (in sec.): 0.02557086944580078
+07:20:52,151 root INFO Program F5122subx2 calculation (in sec.): 66.8546838760376
+07:20:52,163 root INFO Program F5122subx2 stats calculation (in sec.): 0.012441158294677734
+07:21:01,232 root INFO Program F5122subx2 calculation (in sec.): 75.93586492538452
+07:21:01,244 root INFO Program F5122subx2 stats calculation (in sec.): 0.011921167373657227
+07:21:14,304 root INFO Noise FConst calculation (in sec.): 13.059315919876099
+07:21:14,304 root INFO Noise FConst stats calculation (in sec.): 0.0005152225494384766
+07:21:14,316 root INFO Program calculation (in sec.): 182.3097448348999
+07:24:16,712 root INFO Program FHD calculation (in sec.): 40.17053508758545
+07:24:16,933 root INFO Program FHD stats calculation (in sec.): 0.22092485427856445
+07:25:01,82 root INFO Program FHD calculation (in sec.): 84.54084014892578
+07:25:01,297 root INFO Program FHD stats calculation (in sec.): 0.21445202827453613
+07:30:58,476 root INFO Program FHD calculation (in sec.): 40.817883253097534
+07:30:58,606 root INFO Program FHD stats calculation (in sec.): 0.12940692901611328
+07:31:42,960 root INFO Program FHD calculation (in sec.): 85.30151009559631
+07:31:43,107 root INFO Program FHD stats calculation (in sec.): 0.1472311019897461
+07:32:29,675 root INFO Noise FConst calculation (in sec.): 11.348176956176758
+07:32:29,676 root INFO Noise FConst stats calculation (in sec.): 0.0006852149963378906
+07:32:29,687 root INFO Program calculation (in sec.): 11.47109603881836
+07:47:34,222 root INFO Program F5122subx2 calculation (in sec.): 10.183823823928833
+07:47:34,235 root INFO Program F5122subx2 stats calculation (in sec.): 0.012929201126098633
+07:47:43,591 root INFO Program F5122subx2 calculation (in sec.): 19.553201913833618
+07:47:43,603 root INFO Program F5122subx2 stats calculation (in sec.): 0.011780261993408203
+07:47:52,472 root INFO Program F5122subx2 calculation (in sec.): 28.43408203125
+07:47:52,483 root INFO Program F5122subx2 stats calculation (in sec.): 0.011032819747924805
+07:48:01,405 root INFO Program F5122subx2 calculation (in sec.): 37.36679983139038
+07:48:01,416 root INFO Program F5122subx2 stats calculation (in sec.): 0.011003255844116211
+07:48:10,203 root INFO Program F5122subx2 calculation (in sec.): 46.16508913040161
+07:48:10,214 root INFO Program F5122subx2 stats calculation (in sec.): 0.011020660400390625
+07:48:19,554 root INFO Program F5122subx2 calculation (in sec.): 55.51575684547424
+07:48:19,573 root INFO Program F5122subx2 stats calculation (in sec.): 0.019549131393432617
+07:48:28,151 root INFO Program F5122subx2 calculation (in sec.): 64.11328911781311
+07:48:28,163 root INFO Program F5122subx2 stats calculation (in sec.): 0.011300802230834961
+07:48:37,419 root INFO Program F5122subx2 calculation (in sec.): 73.38072776794434
+07:48:37,430 root INFO Program F5122subx2 stats calculation (in sec.): 0.010885238647460938
+07:48:46,676 root INFO Noise FConst calculation (in sec.): 9.246135950088501
+07:48:46,677 root INFO Noise FConst stats calculation (in sec.): 0.0005080699920654297
+07:48:46,687 root INFO Program calculation (in sec.): 82.70713901519775
+07:50:17,570 root INFO Program F5122subx2 calculation (in sec.): 10.804837226867676
+07:50:17,582 root INFO Program F5122subx2 stats calculation (in sec.): 0.012234926223754883
+07:50:27,306 root INFO Program F5122subx2 calculation (in sec.): 20.54101824760437
+07:50:27,317 root INFO Program F5122subx2 stats calculation (in sec.): 0.010916709899902344
+07:50:35,876 root INFO Program F5122subx2 calculation (in sec.): 29.111068964004517
+07:50:35,889 root INFO Program F5122subx2 stats calculation (in sec.): 0.012732267379760742
+07:50:45,99 root INFO Program F5122subx2 calculation (in sec.): 38.33393716812134
+07:50:45,111 root INFO Program F5122subx2 stats calculation (in sec.): 0.011662006378173828
+07:50:54,120 root INFO Program F5122subx2 calculation (in sec.): 47.355093002319336
+07:50:54,146 root INFO Program F5122subx2 stats calculation (in sec.): 0.025609970092773438
+07:51:03,738 root INFO Program F5122subx2 calculation (in sec.): 56.9727942943573
+07:51:03,751 root INFO Program F5122subx2 stats calculation (in sec.): 0.012862920761108398
+07:51:12,659 root INFO Program F5122subx2 calculation (in sec.): 65.89362096786499
+07:51:12,672 root INFO Program F5122subx2 stats calculation (in sec.): 0.013354063034057617
+07:51:22,422 root INFO Program F5122subx2 calculation (in sec.): 75.6564371585846
+07:51:22,433 root INFO Program F5122subx2 stats calculation (in sec.): 0.011526107788085938
+07:51:34,623 root INFO Noise FConst calculation (in sec.): 12.189330101013184
+07:51:34,623 root INFO Noise FConst stats calculation (in sec.): 0.0005979537963867188
+07:51:34,634 root INFO Program calculation (in sec.): 88.05710196495056
+07:53:37,221 root INFO Program F5122subx2 calculation (in sec.): 10.249959945678711
+07:53:37,238 root INFO Program F5122subx2 stats calculation (in sec.): 0.017358064651489258
+07:53:46,438 root INFO Program F5122subx2 calculation (in sec.): 19.4670889377594
+07:53:46,453 root INFO Program F5122subx2 stats calculation (in sec.): 0.015265941619873047
+07:53:55,128 root INFO Program F5122subx2 calculation (in sec.): 28.15682101249695
+07:53:55,139 root INFO Program F5122subx2 stats calculation (in sec.): 0.011935949325561523
+07:54:04,704 root INFO Program F5122subx2 calculation (in sec.): 37.73297882080078
+07:54:04,725 root INFO Program F5122subx2 stats calculation (in sec.): 0.0214998722076416
+07:54:13,731 root INFO Program F5122subx2 calculation (in sec.): 46.760217905044556
+07:54:13,748 root INFO Program F5122subx2 stats calculation (in sec.): 0.01732492446899414
+07:54:22,491 root INFO Program F5122subx2 calculation (in sec.): 55.52014493942261
+07:54:22,515 root INFO Program F5122subx2 stats calculation (in sec.): 0.024629831314086914
+07:54:31,322 root INFO Program F5122subx2 calculation (in sec.): 64.3511688709259
+07:54:31,333 root INFO Program F5122subx2 stats calculation (in sec.): 0.011014938354492188
+07:54:40,924 root INFO Program F5122subx2 calculation (in sec.): 73.9532208442688
+07:54:40,935 root INFO Program F5122subx2 stats calculation (in sec.): 0.010860919952392578
+07:54:49,801 root INFO Noise FConst calculation (in sec.): 8.866204023361206
+07:54:49,802 root INFO Noise FConst stats calculation (in sec.): 0.0005049705505371094
+07:54:49,811 root INFO Program calculation (in sec.): 82.88489699363708
+07:56:01,726 root INFO Program FHD calculation (in sec.): 38.27607297897339
+07:56:01,870 root INFO Program FHD stats calculation (in sec.): 0.1438310146331787
+07:56:44,338 root INFO Program FHD calculation (in sec.): 80.8878116607666
+07:56:44,509 root INFO Program FHD stats calculation (in sec.): 0.17046713829040527
+07:57:23,716 root INFO Program FHD calculation (in sec.): 120.26533675193787
+07:57:23,829 root INFO Program FHD stats calculation (in sec.): 0.1135871410369873
+07:58:07,774 root INFO Program FHD calculation (in sec.): 164.32386469841003
+07:58:07,899 root INFO Program FHD stats calculation (in sec.): 0.12522315979003906
+07:59:03,570 root INFO Program Fx2 calculation (in sec.): 55.66841793060303
+07:59:03,693 root INFO Program Fx2 stats calculation (in sec.): 0.12344217300415039
+08:00:15,532 root INFO Program Fx2 calculation (in sec.): 127.63074207305908
+08:00:15,649 root INFO Program Fx2 stats calculation (in sec.): 0.11686086654663086
+08:01:13,969 root INFO Program Fx2 calculation (in sec.): 186.06796598434448
+08:01:14,117 root INFO Program Fx2 stats calculation (in sec.): 0.14718294143676758
+08:02:28,643 root INFO Program Fx2 calculation (in sec.): 260.7411530017853
+08:02:28,786 root INFO Program Fx2 stats calculation (in sec.): 0.14343571662902832
+08:03:24,320 root INFO Program Fx2 calculation (in sec.): 316.4181098937988
+08:03:24,466 root INFO Program Fx2 stats calculation (in sec.): 0.14609003067016602
+08:04:34,898 root INFO Program Fx2 calculation (in sec.): 386.9966700077057
+08:04:35,19 root INFO Program Fx2 stats calculation (in sec.): 0.12062382698059082
+08:05:33,709 root INFO Program Fx2 calculation (in sec.): 445.8071699142456
+08:05:33,825 root INFO Program Fx2 stats calculation (in sec.): 0.11593890190124512
+08:06:44,614 root INFO Program Fx2 calculation (in sec.): 516.7126588821411
+08:06:44,733 root INFO Program Fx2 stats calculation (in sec.): 0.11892008781433105
+08:07:40,917 root INFO Program F5122subx2 calculation (in sec.): 56.182023763656616
+08:07:41,38 root INFO Program F5122subx2 stats calculation (in sec.): 0.12128806114196777
+08:08:53,40 root INFO Program F5122subx2 calculation (in sec.): 128.3052158355713
+08:08:53,158 root INFO Program F5122subx2 stats calculation (in sec.): 0.11794424057006836
+08:09:52,666 root INFO Program F5122subx2 calculation (in sec.): 187.93106508255005
+08:09:52,815 root INFO Program F5122subx2 stats calculation (in sec.): 0.14936590194702148
+08:11:11,125 root INFO Program F5122subx2 calculation (in sec.): 266.39032912254333
+08:11:11,293 root INFO Program F5122subx2 stats calculation (in sec.): 0.16789579391479492
+08:12:08,597 root INFO Program F5122subx2 calculation (in sec.): 323.8623948097229
+08:12:08,752 root INFO Program F5122subx2 stats calculation (in sec.): 0.15467309951782227
+08:13:21,918 root INFO Program F5122subx2 calculation (in sec.): 397.1830368041992
+08:13:22,39 root INFO Program F5122subx2 stats calculation (in sec.): 0.12083601951599121
+08:14:22,407 root INFO Program F5122subx2 calculation (in sec.): 457.67149782180786
+08:14:22,524 root INFO Program F5122subx2 stats calculation (in sec.): 0.11790895462036133
+08:15:35,484 root INFO Program F5122subx2 calculation (in sec.): 530.7493517398834
+08:15:35,605 root INFO Program F5122subx2 stats calculation (in sec.): 0.12054300308227539
+08:16:31,985 root INFO Program Fecx_025 calculation (in sec.): 56.377193212509155
+08:16:32,110 root INFO Program Fecx_025 stats calculation (in sec.): 0.1250309944152832
+08:17:49,654 root INFO Program Fecx_025 calculation (in sec.): 134.0462212562561
+08:17:49,773 root INFO Program Fecx_025 stats calculation (in sec.): 0.11893486976623535
+08:18:51,356 root INFO Program Fecx_025 calculation (in sec.): 195.747944355011
+08:18:51,518 root INFO Program Fecx_025 stats calculation (in sec.): 0.1625516414642334
+08:20:09,179 root INFO Program Fecx_025 calculation (in sec.): 273.5716452598572
+08:20:09,342 root INFO Program Fecx_025 stats calculation (in sec.): 0.16242480278015137
+08:21:09,503 root INFO Program Fecx_025 calculation (in sec.): 333.89551997184753
+08:21:09,678 root INFO Program Fecx_025 stats calculation (in sec.): 0.17539310455322266
+08:22:22,637 root INFO Program Fecx_025 calculation (in sec.): 407.029922246933
+08:22:22,757 root INFO Program Fecx_025 stats calculation (in sec.): 0.1198740005493164
+08:23:22,463 root INFO Program Fecx_025 calculation (in sec.): 466.8557450771332
+08:23:22,617 root INFO Program Fecx_025 stats calculation (in sec.): 0.1534271240234375
+08:24:35,951 root INFO Program Fecx_025 calculation (in sec.): 540.3437261581421
+08:24:36,109 root INFO Program Fecx_025 stats calculation (in sec.): 0.15734601020812988
+08:34:41,807 root INFO Noise FConst calculation (in sec.): 605.6964309215546
+08:34:41,814 root INFO Noise FConst stats calculation (in sec.): 0.007038116455078125
+08:34:41,879 root INFO Program calculation (in sec.): 2358.5979330539703
+23:29:40,944 root INFO Program F5122subx2 calculation (in sec.): 20.168028831481934
+23:29:58,163 root INFO Program F5122subx2 stats calculation (in sec.): 17.219230890274048
+23:30:16,494 root INFO Program F5122subx2 calculation (in sec.): 55.718464851379395
+23:30:16,520 root INFO Program F5122subx2 stats calculation (in sec.): 0.026546955108642578
+23:30:33,484 root INFO Program F5122subx2 calculation (in sec.): 72.70846366882324
+23:30:33,510 root INFO Program F5122subx2 stats calculation (in sec.): 0.025634050369262695
+23:30:51,682 root INFO Program F5122subx2 calculation (in sec.): 90.90652179718018
+23:30:51,707 root INFO Program F5122subx2 stats calculation (in sec.): 0.0245668888092041
+23:31:09,400 root INFO Program F5122subx2 calculation (in sec.): 108.62479162216187
+23:31:09,455 root INFO Program F5122subx2 stats calculation (in sec.): 0.05450916290283203
+23:31:29,956 root INFO Program F5122subx2 calculation (in sec.): 129.1802155971527
+23:31:29,989 root INFO Program F5122subx2 stats calculation (in sec.): 0.033446311950683594
+23:31:50,294 root INFO Program F5122subx2 calculation (in sec.): 149.51813673973083
+23:31:50,330 root INFO Program F5122subx2 stats calculation (in sec.): 0.03605008125305176
+23:32:09,492 root INFO Program F5122subx2 calculation (in sec.): 168.71663880348206
+23:32:09,518 root INFO Program F5122subx2 stats calculation (in sec.): 0.026246070861816406
+23:32:23,184 root INFO Noise FConst calculation (in sec.): 13.66410493850708
+23:32:23,186 root INFO Noise FConst stats calculation (in sec.): 0.0021669864654541016
+22:04:59,967 root INFO Program F5122subx2 calculation (in sec.): 11.285165071487427
+22:04:59,981 root INFO Program F5122subx2 stats calculation (in sec.): 0.013362884521484375
+22:05:10,342 root INFO Program F5122subx2 calculation (in sec.): 21.660133123397827
+22:05:10,358 root INFO Program F5122subx2 stats calculation (in sec.): 0.015788793563842773
+22:05:21,310 root INFO Program F5122subx2 calculation (in sec.): 32.62834405899048
+22:05:21,359 root INFO Program F5122subx2 stats calculation (in sec.): 0.0484769344329834
+22:05:30,314 root INFO Program F5122subx2 calculation (in sec.): 41.63214111328125
+22:05:30,341 root INFO Program F5122subx2 stats calculation (in sec.): 0.02690887451171875
+22:05:39,164 root INFO Program F5122subx2 calculation (in sec.): 50.48166608810425
+22:05:39,183 root INFO Program F5122subx2 stats calculation (in sec.): 0.01931905746459961
+22:05:47,818 root INFO Program F5122subx2 calculation (in sec.): 59.13614106178284
+22:05:47,838 root INFO Program F5122subx2 stats calculation (in sec.): 0.019800186157226562
+22:05:56,925 root INFO Program F5122subx2 calculation (in sec.): 68.24300384521484
+22:05:56,945 root INFO Program F5122subx2 stats calculation (in sec.): 0.020139217376708984
+22:06:06,44 root INFO Program F5122subx2 calculation (in sec.): 77.36143708229065
+22:06:06,65 root INFO Program F5122subx2 stats calculation (in sec.): 0.021751880645751953
+22:06:16,818 root INFO Noise FConst calculation (in sec.): 10.752038955688477
+22:06:16,819 root INFO Noise FConst stats calculation (in sec.): 0.0013790130615234375
+22:06:16,830 root INFO Program calculation (in sec.): 88.47734689712524
+22:13:40,592 root INFO Program F5122subx2 calculation (in sec.): 12.563024044036865
+22:13:40,611 root INFO Program F5122subx2 stats calculation (in sec.): 0.01910996437072754
+22:13:49,888 root INFO Program F5122subx2 calculation (in sec.): 21.859983205795288
+22:13:49,903 root INFO Program F5122subx2 stats calculation (in sec.): 0.014195919036865234
+22:14:00,214 root INFO Program F5122subx2 calculation (in sec.): 32.185420989990234
+22:14:00,231 root INFO Program F5122subx2 stats calculation (in sec.): 0.017403841018676758
+22:14:11,464 root INFO Program F5122subx2 calculation (in sec.): 43.435137033462524
+22:14:11,485 root INFO Program F5122subx2 stats calculation (in sec.): 0.02118706703186035
+22:14:22,156 root INFO Program F5122subx2 calculation (in sec.): 54.1272509098053
+22:14:22,178 root INFO Program F5122subx2 stats calculation (in sec.): 0.022427082061767578
+22:14:33,141 root INFO Program F5122subx2 calculation (in sec.): 65.11233401298523
+22:14:33,170 root INFO Program F5122subx2 stats calculation (in sec.): 0.029330968856811523
+22:14:42,770 root INFO Program F5122subx2 calculation (in sec.): 74.74195909500122
+22:14:42,800 root INFO Program F5122subx2 stats calculation (in sec.): 0.029569149017333984
+22:14:52,416 root INFO Program F5122subx2 calculation (in sec.): 84.3871579170227
+22:14:52,446 root INFO Program F5122subx2 stats calculation (in sec.): 0.030773162841796875
+22:15:02,733 root INFO Noise FConst calculation (in sec.): 10.286242008209229
+22:15:02,734 root INFO Noise FConst stats calculation (in sec.): 0.0007791519165039062
+22:15:02,747 root INFO Program calculation (in sec.): 94.91293120384216
+22:15:33,446 root INFO Program F5122subx2 calculation (in sec.): 12.58436131477356
+22:15:33,459 root INFO Program F5122subx2 stats calculation (in sec.): 0.013643741607666016
+22:15:43,780 root INFO Program F5122subx2 calculation (in sec.): 22.918288230895996
+22:15:43,795 root INFO Program F5122subx2 stats calculation (in sec.): 0.015275955200195312
+22:15:54,209 root INFO Program F5122subx2 calculation (in sec.): 33.347843170166016
+22:15:54,227 root INFO Program F5122subx2 stats calculation (in sec.): 0.017374038696289062
+22:16:04,207 root INFO Program F5122subx2 calculation (in sec.): 43.34564137458801
+22:16:04,229 root INFO Program F5122subx2 stats calculation (in sec.): 0.022058963775634766
+22:16:13,791 root INFO Program F5122subx2 calculation (in sec.): 52.92966341972351
+22:16:13,814 root INFO Program F5122subx2 stats calculation (in sec.): 0.02268075942993164
+22:16:23,767 root INFO Program F5122subx2 calculation (in sec.): 62.90589904785156
+22:16:23,793 root INFO Program F5122subx2 stats calculation (in sec.): 0.026056289672851562
+22:16:32,910 root INFO Program F5122subx2 calculation (in sec.): 72.04866623878479
+22:16:32,938 root INFO Program F5122subx2 stats calculation (in sec.): 0.028196096420288086
+22:16:41,894 root INFO Program F5122subx2 calculation (in sec.): 81.03288221359253
+22:16:41,929 root INFO Program F5122subx2 stats calculation (in sec.): 0.0343780517578125
+22:16:51,130 root INFO Noise FConst calculation (in sec.): 9.200952053070068
+22:16:51,131 root INFO Noise FConst stats calculation (in sec.): 0.0006227493286132812
+22:16:51,143 root INFO Program calculation (in sec.): 90.49974918365479
+22:37:40,647 root INFO Program FHD calculation (in sec.): 7.417265176773071
+22:37:40,660 root INFO Program FHD stats calculation (in sec.): 0.013046026229858398
+22:37:46,268 root INFO Program FHD calculation (in sec.): 13.037950277328491
+22:37:46,283 root INFO Program FHD stats calculation (in sec.): 0.015374898910522461
+22:37:51,272 root INFO Program FHD calculation (in sec.): 18.042258262634277
+22:37:51,289 root INFO Program FHD stats calculation (in sec.): 0.01682901382446289
+22:37:56,290 root INFO Program FHD calculation (in sec.): 23.060058116912842
+22:37:56,327 root INFO Program FHD stats calculation (in sec.): 0.037683963775634766
+22:38:05,549 root INFO Program Fx2 calculation (in sec.): 9.220887660980225
+22:38:05,561 root INFO Program Fx2 stats calculation (in sec.): 0.012006282806396484
+22:38:15,162 root INFO Program Fx2 calculation (in sec.): 18.83377480506897
+22:38:15,176 root INFO Program Fx2 stats calculation (in sec.): 0.014809131622314453
+22:38:24,368 root INFO Program Fx2 calculation (in sec.): 28.039737701416016
+22:38:24,385 root INFO Program Fx2 stats calculation (in sec.): 0.01747417449951172
+22:38:33,623 root INFO Program Fx2 calculation (in sec.): 37.29546594619751
+22:38:33,643 root INFO Program Fx2 stats calculation (in sec.): 0.019806861877441406
+22:38:41,789 root INFO Program Fx2 calculation (in sec.): 45.461299896240234
+22:38:41,814 root INFO Program Fx2 stats calculation (in sec.): 0.025120973587036133
+22:38:51,890 root INFO Program Fx2 calculation (in sec.): 55.56207275390625
+22:38:51,915 root INFO Program Fx2 stats calculation (in sec.): 0.024814128875732422
+22:39:01,497 root INFO Program Fx2 calculation (in sec.): 65.16910791397095
+22:39:01,524 root INFO Program Fx2 stats calculation (in sec.): 0.02743387222290039
+22:39:11,939 root INFO Program Fx2 calculation (in sec.): 75.61134886741638
+22:39:11,981 root INFO Program Fx2 stats calculation (in sec.): 0.04138803482055664
+22:39:22,537 root INFO Program F5122subx2 calculation (in sec.): 10.556447982788086
+22:39:22,549 root INFO Program F5122subx2 stats calculation (in sec.): 0.011749744415283203
+22:39:32,340 root INFO Program F5122subx2 calculation (in sec.): 20.358792781829834
+22:39:32,354 root INFO Program F5122subx2 stats calculation (in sec.): 0.014281034469604492
+22:39:41,457 root INFO Program F5122subx2 calculation (in sec.): 29.47633671760559
+22:39:41,474 root INFO Program F5122subx2 stats calculation (in sec.): 0.016863346099853516
+22:39:50,734 root INFO Program F5122subx2 calculation (in sec.): 38.75296497344971
+22:39:50,754 root INFO Program F5122subx2 stats calculation (in sec.): 0.02054572105407715
+22:40:00,133 root INFO Program F5122subx2 calculation (in sec.): 48.15202188491821
+22:40:00,156 root INFO Program F5122subx2 stats calculation (in sec.): 0.022904157638549805
+22:40:09,788 root INFO Program F5122subx2 calculation (in sec.): 57.80692481994629
+22:40:09,823 root INFO Program F5122subx2 stats calculation (in sec.): 0.03560519218444824
+22:40:19,416 root INFO Program F5122subx2 calculation (in sec.): 67.43526911735535
+22:40:19,539 root INFO Program F5122subx2 stats calculation (in sec.): 0.12289571762084961
+22:40:29,665 root INFO Program F5122subx2 calculation (in sec.): 77.68367791175842
+22:40:29,696 root INFO Program F5122subx2 stats calculation (in sec.): 0.03162217140197754
+22:40:44,778 root INFO Noise FConst calculation (in sec.): 15.08129620552063
+22:40:44,779 root INFO Noise FConst stats calculation (in sec.): 0.0013818740844726562
+22:40:44,797 root INFO Program calculation (in sec.): 191.77820801734924
+22:48:59,220 root INFO Program FHD calculation (in sec.): 10.85168719291687
+22:48:59,249 root INFO Program FHD stats calculation (in sec.): 0.028417110443115234
+22:49:09,88 root INFO Program FHD calculation (in sec.): 20.71981716156006
+22:49:09,124 root INFO Program FHD stats calculation (in sec.): 0.035549163818359375
+22:51:52,779 root INFO Program FHD calculation (in sec.): 10.338374853134155
+22:51:52,807 root INFO Program FHD stats calculation (in sec.): 0.027334213256835938
+22:52:01,766 root INFO Program FHD calculation (in sec.): 19.325199842453003
+22:52:01,799 root INFO Program FHD stats calculation (in sec.): 0.03303217887878418
+22:52:52,945 root INFO Program FHD calculation (in sec.): 70.50376796722412
+22:52:52,986 root INFO Program FHD stats calculation (in sec.): 0.0411069393157959
+22:53:02,709 root INFO Program FHD calculation (in sec.): 80.26815390586853
+22:53:02,778 root INFO Program FHD stats calculation (in sec.): 0.06931281089782715
+22:53:21,473 root INFO Program Fx2 calculation (in sec.): 18.693681955337524
+22:53:21,498 root INFO Program Fx2 stats calculation (in sec.): 0.025519132614135742
+22:53:40,215 root INFO Program Fx2 calculation (in sec.): 37.43553805351257
+22:53:40,263 root INFO Program Fx2 stats calculation (in sec.): 0.0481419563293457
+22:53:57,970 root INFO Program Fx2 calculation (in sec.): 55.191169023513794
+22:53:58,10 root INFO Program Fx2 stats calculation (in sec.): 0.03992891311645508
+22:54:15,664 root INFO Program Fx2 calculation (in sec.): 72.88497710227966
+22:54:15,712 root INFO Program Fx2 stats calculation (in sec.): 0.047686100006103516
+22:54:32,766 root INFO Program Fx2 calculation (in sec.): 89.98711609840393
+22:54:32,824 root INFO Program Fx2 stats calculation (in sec.): 0.05799508094787598
+22:54:50,645 root INFO Program Fx2 calculation (in sec.): 107.86614513397217
+22:54:50,716 root INFO Program Fx2 stats calculation (in sec.): 0.0710909366607666
+22:55:09,898 root INFO Program Fx2 calculation (in sec.): 127.11891412734985
+22:55:09,971 root INFO Program Fx2 stats calculation (in sec.): 0.07340693473815918
+22:55:28,552 root INFO Program Fx2 calculation (in sec.): 145.77322506904602
+22:55:28,749 root INFO Program Fx2 stats calculation (in sec.): 0.19668292999267578
+22:55:48,221 root INFO Program F5122subx2 calculation (in sec.): 19.47189998626709
+22:55:48,246 root INFO Program F5122subx2 stats calculation (in sec.): 0.02443408966064453
+22:56:07,789 root INFO Program F5122subx2 calculation (in sec.): 39.03925681114197
+22:56:07,822 root INFO Program F5122subx2 stats calculation (in sec.): 0.03279829025268555
+22:56:29,1 root INFO Program F5122subx2 calculation (in sec.): 60.25149178504944
+22:56:29,59 root INFO Program F5122subx2 stats calculation (in sec.): 0.058399200439453125
+22:56:47,674 root INFO Program F5122subx2 calculation (in sec.): 78.92393493652344
+22:56:47,722 root INFO Program F5122subx2 stats calculation (in sec.): 0.04855513572692871
+22:57:06,867 root INFO Program F5122subx2 calculation (in sec.): 98.11729788780212
+22:57:06,922 root INFO Program F5122subx2 stats calculation (in sec.): 0.0552980899810791
+22:57:26,232 root INFO Program F5122subx2 calculation (in sec.): 117.48251700401306
+22:57:26,306 root INFO Program F5122subx2 stats calculation (in sec.): 0.07416391372680664
+22:57:45,573 root INFO Program F5122subx2 calculation (in sec.): 136.82347798347473
+22:57:45,645 root INFO Program F5122subx2 stats calculation (in sec.): 0.07151579856872559
+22:58:05,463 root INFO Program F5122subx2 calculation (in sec.): 156.71376299858093
+22:58:05,545 root INFO Program F5122subx2 stats calculation (in sec.): 0.08210277557373047
+22:58:16,981 root INFO Noise FConst calculation (in sec.): 11.434890985488892
+22:58:16,982 root INFO Noise FConst stats calculation (in sec.): 0.0014050006866455078
+22:58:20,827 root INFO Program calculation (in sec.): 398.6892020702362
+23:03:10,463 root INFO Program FHD calculation (in sec.): 13.195811986923218
+23:03:10,491 root INFO Program FHD stats calculation (in sec.): 0.028050899505615234
+23:03:20,68 root INFO Program FHD calculation (in sec.): 22.80059790611267
+23:03:20,100 root INFO Program FHD stats calculation (in sec.): 0.03242611885070801
+23:03:29,912 root INFO Program FHD calculation (in sec.): 32.64420294761658
+23:03:29,950 root INFO Program FHD stats calculation (in sec.): 0.03879714012145996
+23:03:39,767 root INFO Program FHD calculation (in sec.): 42.49993324279785
+23:03:39,814 root INFO Program FHD stats calculation (in sec.): 0.046588897705078125
+23:04:57,262 root INFO Program FHD calculation (in sec.): 11.139289855957031
+23:04:57,289 root INFO Program FHD stats calculation (in sec.): 0.02771615982055664
+23:09:16,673 root INFO Program FHD calculation (in sec.): 11.240344047546387
+23:09:16,701 root INFO Program FHD stats calculation (in sec.): 0.027907848358154297
+23:09:26,228 root INFO Program FHD calculation (in sec.): 20.795315980911255
+23:09:26,261 root INFO Program FHD stats calculation (in sec.): 0.03278803825378418
+23:09:35,454 root INFO Program FHD calculation (in sec.): 30.020911931991577
+23:09:35,493 root INFO Program FHD stats calculation (in sec.): 0.03878617286682129
+23:09:44,408 root INFO Program FHD calculation (in sec.): 38.97503328323364
+23:09:44,455 root INFO Program FHD stats calculation (in sec.): 0.04730391502380371
+23:10:03,25 root INFO Program Fx2 calculation (in sec.): 18.56880807876587
+23:10:03,49 root INFO Program Fx2 stats calculation (in sec.): 0.024363994598388672
+23:10:20,155 root INFO Program Fx2 calculation (in sec.): 35.69914197921753
+23:10:20,253 root INFO Program Fx2 stats calculation (in sec.): 0.09798979759216309
+23:10:38,184 root INFO Program Fx2 calculation (in sec.): 53.72768688201904
+23:10:38,224 root INFO Program Fx2 stats calculation (in sec.): 0.04048490524291992
+23:10:55,714 root INFO Program Fx2 calculation (in sec.): 71.25865197181702
+23:10:55,762 root INFO Program Fx2 stats calculation (in sec.): 0.04753684997558594
+23:11:15,19 root INFO Program Fx2 calculation (in sec.): 90.56309294700623
+23:11:15,74 root INFO Program Fx2 stats calculation (in sec.): 0.05557107925415039
+23:11:34,634 root INFO Program Fx2 calculation (in sec.): 110.17804193496704
+23:11:34,698 root INFO Program Fx2 stats calculation (in sec.): 0.06365489959716797
+23:11:52,176 root INFO Program Fx2 calculation (in sec.): 127.72049069404602
+23:11:52,246 root INFO Program Fx2 stats calculation (in sec.): 0.06958937644958496
+23:12:08,942 root INFO Program Fx2 calculation (in sec.): 144.4865460395813
+23:12:09,26 root INFO Program Fx2 stats calculation (in sec.): 0.08313298225402832
+23:12:26,713 root INFO Program F5122subx2 calculation (in sec.): 17.687259912490845
+23:12:26,738 root INFO Program F5122subx2 stats calculation (in sec.): 0.024861812591552734
+23:12:46,21 root INFO Program F5122subx2 calculation (in sec.): 36.99457883834839
+23:12:46,56 root INFO Program F5122subx2 stats calculation (in sec.): 0.03539109230041504
+23:13:04,512 root INFO Program F5122subx2 calculation (in sec.): 55.48581886291504
+23:13:04,586 root INFO Program F5122subx2 stats calculation (in sec.): 0.0739750862121582
+23:13:22,588 root INFO Program F5122subx2 calculation (in sec.): 73.56234383583069
+23:13:22,635 root INFO Program F5122subx2 stats calculation (in sec.): 0.04641890525817871
+23:13:40,459 root INFO Program F5122subx2 calculation (in sec.): 91.43261289596558
+23:13:40,520 root INFO Program F5122subx2 stats calculation (in sec.): 0.06116795539855957
+23:13:58,486 root INFO Program F5122subx2 calculation (in sec.): 109.46021890640259
+23:13:58,550 root INFO Program F5122subx2 stats calculation (in sec.): 0.06352996826171875
+23:14:17,491 root INFO Program F5122subx2 calculation (in sec.): 128.46468997001648
+23:14:17,561 root INFO Program F5122subx2 stats calculation (in sec.): 0.07052993774414062
+23:14:36,973 root INFO Program F5122subx2 calculation (in sec.): 147.94674587249756
+23:14:37,50 root INFO Program F5122subx2 stats calculation (in sec.): 0.07728815078735352
+23:33:59,546 root INFO Program FHD calculation (in sec.): 6.330399036407471
+23:33:59,562 root INFO Program FHD stats calculation (in sec.): 0.015211820602416992
+23:34:04,694 root INFO Program FHD calculation (in sec.): 11.478533744812012
+23:34:04,713 root INFO Program FHD stats calculation (in sec.): 0.01805734634399414
+23:34:09,449 root INFO Program FHD calculation (in sec.): 16.23329186439514
+23:34:09,466 root INFO Program FHD stats calculation (in sec.): 0.017098188400268555
+23:34:15,123 root INFO Program FHD calculation (in sec.): 21.90681290626526
+23:34:15,144 root INFO Program FHD stats calculation (in sec.): 0.021474123001098633
+23:34:25,392 root INFO Program Fx2 calculation (in sec.): 10.247207164764404
+23:34:25,404 root INFO Program Fx2 stats calculation (in sec.): 0.011786699295043945
+23:34:35,311 root INFO Program Fx2 calculation (in sec.): 20.166609287261963
+23:34:35,327 root INFO Program Fx2 stats calculation (in sec.): 0.01576972007751465
+23:34:44,896 root INFO Program Fx2 calculation (in sec.): 29.75106906890869
+23:34:44,922 root INFO Program Fx2 stats calculation (in sec.): 0.025975942611694336
+23:34:54,758 root INFO Program Fx2 calculation (in sec.): 39.613394021987915
+23:34:54,785 root INFO Program Fx2 stats calculation (in sec.): 0.027383089065551758
+23:35:04,534 root INFO Program Fx2 calculation (in sec.): 49.38923120498657
+23:35:04,565 root INFO Program Fx2 stats calculation (in sec.): 0.030978679656982422
+23:35:14,229 root INFO Program Fx2 calculation (in sec.): 59.08396911621094
+23:35:14,255 root INFO Program Fx2 stats calculation (in sec.): 0.02627086639404297
+23:35:22,787 root INFO Program Fx2 calculation (in sec.): 67.64184713363647
+23:35:22,818 root INFO Program Fx2 stats calculation (in sec.): 0.03130912780761719
+23:35:32,562 root INFO Program Fx2 calculation (in sec.): 77.41721296310425
+23:35:32,594 root INFO Program Fx2 stats calculation (in sec.): 0.031977176666259766
+23:35:41,610 root INFO Program F5122subx2 calculation (in sec.): 9.015287160873413
+23:35:41,624 root INFO Program F5122subx2 stats calculation (in sec.): 0.014749765396118164
+23:35:51,361 root INFO Program F5122subx2 calculation (in sec.): 18.766196966171265
+23:35:51,375 root INFO Program F5122subx2 stats calculation (in sec.): 0.014497041702270508
+23:36:00,327 root INFO Program F5122subx2 calculation (in sec.): 27.732227087020874
+23:36:00,374 root INFO Program F5122subx2 stats calculation (in sec.): 0.04712510108947754
+23:36:09,710 root INFO Program F5122subx2 calculation (in sec.): 37.11551380157471
+23:36:09,732 root INFO Program F5122subx2 stats calculation (in sec.): 0.022657155990600586
+23:36:18,68 root INFO Program F5122subx2 calculation (in sec.): 45.47344207763672
+23:36:18,99 root INFO Program F5122subx2 stats calculation (in sec.): 0.03142404556274414
+23:36:28,376 root INFO Program F5122subx2 calculation (in sec.): 55.78135395050049
+23:36:28,402 root INFO Program F5122subx2 stats calculation (in sec.): 0.026005029678344727
+23:36:37,414 root INFO Program F5122subx2 calculation (in sec.): 64.81952095031738
+23:36:37,463 root INFO Program F5122subx2 stats calculation (in sec.): 0.049371957778930664
+23:36:46,962 root INFO Program F5122subx2 calculation (in sec.): 74.3677749633789
+23:36:47,31 root INFO Program F5122subx2 stats calculation (in sec.): 0.06942486763000488
+23:37:01,723 root INFO Noise FConst calculation (in sec.): 14.691277027130127
+23:37:01,725 root INFO Noise FConst stats calculation (in sec.): 0.0017888545989990234
+23:37:01,743 root INFO Program calculation (in sec.): 188.90971112251282
+23:50:15,517 root INFO Program FHD calculation (in sec.): 6.413251161575317
+23:50:15,532 root INFO Program FHD stats calculation (in sec.): 0.014476776123046875
+23:50:20,998 root INFO Program FHD calculation (in sec.): 11.89372706413269
+23:50:21,19 root INFO Program FHD stats calculation (in sec.): 0.021509170532226562
+23:50:25,703 root INFO Program FHD calculation (in sec.): 16.599113941192627
+23:50:25,738 root INFO Program FHD stats calculation (in sec.): 0.03440690040588379
+23:50:30,479 root INFO Program FHD calculation (in sec.): 21.37534999847412
+23:50:30,499 root INFO Program FHD stats calculation (in sec.): 0.01963186264038086
+23:50:39,945 root INFO Program Fx2 calculation (in sec.): 9.445445775985718
+23:50:39,964 root INFO Program Fx2 stats calculation (in sec.): 0.01876091957092285
+23:50:49,590 root INFO Program Fx2 calculation (in sec.): 19.090167999267578
+23:50:49,604 root INFO Program Fx2 stats calculation (in sec.): 0.0147857666015625
+23:51:00,492 root INFO Program Fx2 calculation (in sec.): 29.992748975753784
+23:51:00,509 root INFO Program Fx2 stats calculation (in sec.): 0.01686882972717285
+23:51:10,658 root INFO Program Fx2 calculation (in sec.): 40.15815091133118
+23:51:10,726 root INFO Program Fx2 stats calculation (in sec.): 0.06853699684143066
+23:51:19,375 root INFO Program Fx2 calculation (in sec.): 48.87587594985962
+23:51:19,398 root INFO Program Fx2 stats calculation (in sec.): 0.022897005081176758
+23:51:28,714 root INFO Program Fx2 calculation (in sec.): 58.214093923568726
+23:51:28,739 root INFO Program Fx2 stats calculation (in sec.): 0.025851964950561523
+23:51:37,982 root INFO Program Fx2 calculation (in sec.): 67.48263788223267
+23:51:38,17 root INFO Program Fx2 stats calculation (in sec.): 0.03507280349731445
+23:51:48,275 root INFO Program Fx2 calculation (in sec.): 77.77566576004028
+23:51:48,309 root INFO Program Fx2 stats calculation (in sec.): 0.03398013114929199
+23:51:58,90 root INFO Program F5122subx2 calculation (in sec.): 9.780265092849731
+23:51:58,103 root INFO Program F5122subx2 stats calculation (in sec.): 0.01344919204711914
+23:52:07,995 root INFO Program F5122subx2 calculation (in sec.): 19.68564510345459
+23:52:08,11 root INFO Program F5122subx2 stats calculation (in sec.): 0.015748977661132812
+23:52:17,239 root INFO Program F5122subx2 calculation (in sec.): 28.929980278015137
+23:52:17,256 root INFO Program F5122subx2 stats calculation (in sec.): 0.01689600944519043
+23:52:27,719 root INFO Program F5122subx2 calculation (in sec.): 39.40908122062683
+23:52:27,748 root INFO Program F5122subx2 stats calculation (in sec.): 0.02983689308166504
+23:52:37,799 root INFO Program F5122subx2 calculation (in sec.): 49.48973798751831
+23:52:37,823 root INFO Program F5122subx2 stats calculation (in sec.): 0.02359604835510254
+23:52:49,159 root INFO Program F5122subx2 calculation (in sec.): 60.8494770526886
+23:52:49,187 root INFO Program F5122subx2 stats calculation (in sec.): 0.02826714515686035
+23:52:59,639 root INFO Program F5122subx2 calculation (in sec.): 71.32967209815979
+23:52:59,701 root INFO Program F5122subx2 stats calculation (in sec.): 0.06150484085083008
+23:53:10,76 root INFO Program F5122subx2 calculation (in sec.): 81.76621413230896
+23:53:10,120 root INFO Program F5122subx2 stats calculation (in sec.): 0.04440784454345703
+23:53:26,383 root INFO Noise FConst calculation (in sec.): 16.261841297149658
+23:53:26,383 root INFO Noise FConst stats calculation (in sec.): 0.0007917881011962891
+23:53:26,403 root INFO Program calculation (in sec.): 197.68543791770935
+23:58:08,662 root INFO Program FHD calculation (in sec.): 6.893276929855347
+23:58:08,705 root INFO Program FHD stats calculation (in sec.): 0.04316902160644531
+23:58:14,91 root INFO Program FHD calculation (in sec.): 12.322330951690674
+23:58:14,105 root INFO Program FHD stats calculation (in sec.): 0.014728069305419922
+23:58:19,97 root INFO Program FHD calculation (in sec.): 17.32830500602722
+23:58:19,114 root INFO Program FHD stats calculation (in sec.): 0.017655134201049805
+23:58:24,313 root INFO Program FHD calculation (in sec.): 22.5448100566864
+23:58:24,334 root INFO Program FHD stats calculation (in sec.): 0.02066206932067871
+23:58:33,756 root INFO Program Fx2 calculation (in sec.): 9.421331882476807
+23:58:33,767 root INFO Program Fx2 stats calculation (in sec.): 0.011306047439575195
+23:58:43,879 root INFO Program Fx2 calculation (in sec.): 19.544997215270996
+23:58:43,913 root INFO Program Fx2 stats calculation (in sec.): 0.03400087356567383
+23:58:53,881 root INFO Program Fx2 calculation (in sec.): 29.54666805267334
+23:58:53,911 root INFO Program Fx2 stats calculation (in sec.): 0.03054213523864746
+23:59:03,575 root INFO Program Fx2 calculation (in sec.): 39.24054026603699
+23:59:03,609 root INFO Program Fx2 stats calculation (in sec.): 0.03382682800292969
+23:59:12,593 root INFO Program Fx2 calculation (in sec.): 48.25846290588379
+23:59:12,615 root INFO Program Fx2 stats calculation (in sec.): 0.02278614044189453
+23:59:21,891 root INFO Program Fx2 calculation (in sec.): 57.55649709701538
+23:59:21,950 root INFO Program Fx2 stats calculation (in sec.): 0.0596928596496582
+23:59:31,492 root INFO Program Fx2 calculation (in sec.): 67.15746927261353
+23:59:31,530 root INFO Program Fx2 stats calculation (in sec.): 0.03825879096984863
+23:59:40,688 root INFO Program Fx2 calculation (in sec.): 76.35421204566956
+23:59:40,721 root INFO Program Fx2 stats calculation (in sec.): 0.03237295150756836
+23:59:49,963 root INFO Program F5122subx2 calculation (in sec.): 9.24200177192688
+23:59:49,975 root INFO Program F5122subx2 stats calculation (in sec.): 0.011816024780273438
+00:00:00,312 root INFO Program F5122subx2 calculation (in sec.): 19.591214895248413
+00:00:00,337 root INFO Program F5122subx2 stats calculation (in sec.): 0.024850845336914062
+00:00:09,396 root INFO Program F5122subx2 calculation (in sec.): 28.674372911453247
+00:00:09,413 root INFO Program F5122subx2 stats calculation (in sec.): 0.017466068267822266
+00:00:18,757 root INFO Program F5122subx2 calculation (in sec.): 38.03562378883362
+00:00:18,777 root INFO Program F5122subx2 stats calculation (in sec.): 0.020561933517456055
+00:00:28,222 root INFO Program F5122subx2 calculation (in sec.): 47.50080680847168
+00:00:28,296 root INFO Program F5122subx2 stats calculation (in sec.): 0.0737311840057373
+00:00:38,597 root INFO Program F5122subx2 calculation (in sec.): 57.875483751297
+00:00:38,624 root INFO Program F5122subx2 stats calculation (in sec.): 0.02683115005493164
+00:00:48,824 root INFO Program F5122subx2 calculation (in sec.): 68.10318374633789
+00:00:48,874 root INFO Program F5122subx2 stats calculation (in sec.): 0.049593210220336914
+00:00:59,409 root INFO Program F5122subx2 calculation (in sec.): 78.68819689750671
+00:00:59,443 root INFO Program F5122subx2 stats calculation (in sec.): 0.033351898193359375
+00:01:10,181 root INFO Noise FConst calculation (in sec.): 10.735892057418823
+00:01:10,181 root INFO Noise FConst stats calculation (in sec.): 0.0005469322204589844
+00:01:10,200 root INFO Program calculation (in sec.): 188.7912700176239
+00:07:35,479 root INFO Program FHD calculation (in sec.): 6.832878112792969
+00:07:35,495 root INFO Program FHD stats calculation (in sec.): 0.017006874084472656
+00:07:40,953 root INFO Program FHD calculation (in sec.): 12.306269884109497
+00:07:40,968 root INFO Program FHD stats calculation (in sec.): 0.015969038009643555
+00:07:46,58 root INFO Program FHD calculation (in sec.): 17.413115978240967
+00:07:46,85 root INFO Program FHD stats calculation (in sec.): 0.025861024856567383
+00:07:52,29 root INFO Program FHD calculation (in sec.): 23.383299112319946
+00:07:52,49 root INFO Program FHD stats calculation (in sec.): 0.020266056060791016
+00:08:02,418 root INFO Program Fx2 calculation (in sec.): 10.368877172470093
+00:08:02,429 root INFO Program Fx2 stats calculation (in sec.): 0.01106572151184082
+00:08:12,472 root INFO Program Fx2 calculation (in sec.): 20.422649145126343
+00:08:12,487 root INFO Program Fx2 stats calculation (in sec.): 0.015059947967529297
+00:08:21,874 root INFO Program Fx2 calculation (in sec.): 29.824740171432495
+00:08:21,896 root INFO Program Fx2 stats calculation (in sec.): 0.022378921508789062
+00:08:31,985 root INFO Program Fx2 calculation (in sec.): 39.935925006866455
+00:08:32,6 root INFO Program Fx2 stats calculation (in sec.): 0.02060699462890625
+00:08:41,320 root INFO Program Fx2 calculation (in sec.): 49.27067017555237
+00:08:41,351 root INFO Program Fx2 stats calculation (in sec.): 0.030736923217773438
+00:08:50,203 root INFO Program Fx2 calculation (in sec.): 58.153157234191895
+00:08:50,235 root INFO Program Fx2 stats calculation (in sec.): 0.03274393081665039
+00:09:00,46 root INFO Program Fx2 calculation (in sec.): 67.9962170124054
+00:09:00,75 root INFO Program Fx2 stats calculation (in sec.): 0.02929401397705078
+00:09:09,970 root INFO Program Fx2 calculation (in sec.): 77.92044019699097
+00:09:10,7 root INFO Program Fx2 stats calculation (in sec.): 0.03743171691894531
+00:09:19,417 root INFO Program F5122subx2 calculation (in sec.): 9.40964412689209
+00:09:19,429 root INFO Program F5122subx2 stats calculation (in sec.): 0.011826038360595703
+00:09:28,708 root INFO Program F5122subx2 calculation (in sec.): 18.70062804222107
+00:09:28,726 root INFO Program F5122subx2 stats calculation (in sec.): 0.018062114715576172
+00:09:37,595 root INFO Program F5122subx2 calculation (in sec.): 27.587125062942505
+00:09:37,611 root INFO Program F5122subx2 stats calculation (in sec.): 0.016659021377563477
+00:09:47,456 root INFO Program F5122subx2 calculation (in sec.): 37.44794988632202
+00:09:47,480 root INFO Program F5122subx2 stats calculation (in sec.): 0.024567127227783203
+00:09:56,546 root INFO Program F5122subx2 calculation (in sec.): 46.5379159450531
+00:09:56,579 root INFO Program F5122subx2 stats calculation (in sec.): 0.03304600715637207
+00:10:06,494 root INFO Program F5122subx2 calculation (in sec.): 56.4867160320282
+00:10:06,520 root INFO Program F5122subx2 stats calculation (in sec.): 0.025215864181518555
+00:10:16,784 root INFO Program F5122subx2 calculation (in sec.): 66.77649688720703
+00:10:16,845 root INFO Program F5122subx2 stats calculation (in sec.): 0.06086301803588867
+00:10:26,902 root INFO Program F5122subx2 calculation (in sec.): 76.89464092254639
+00:10:26,935 root INFO Program F5122subx2 stats calculation (in sec.): 0.03313302993774414
+00:10:33,636 root INFO Noise FConst calculation (in sec.): 6.700160980224609
+00:10:33,637 root INFO Noise FConst stats calculation (in sec.): 0.0006129741668701172
+00:10:33,655 root INFO Program calculation (in sec.): 185.3509931564331
+00:18:07,211 root INFO Program FHD calculation (in sec.): 6.724933862686157
+00:18:07,232 root INFO Program FHD stats calculation (in sec.): 0.02119612693786621
+00:18:12,786 root INFO Program FHD calculation (in sec.): 12.299773931503296
+00:18:12,805 root INFO Program FHD stats calculation (in sec.): 0.018903017044067383
+00:18:18,499 root INFO Program FHD calculation (in sec.): 18.01341700553894
+00:18:18,538 root INFO Program FHD stats calculation (in sec.): 0.03902101516723633
+00:18:24,140 root INFO Program FHD calculation (in sec.): 23.65420699119568
+00:18:24,161 root INFO Program FHD stats calculation (in sec.): 0.020380020141601562
+00:18:33,981 root INFO Program Fx2 calculation (in sec.): 9.82006311416626
+00:18:33,993 root INFO Program Fx2 stats calculation (in sec.): 0.011851072311401367
+00:18:43,349 root INFO Program Fx2 calculation (in sec.): 19.18759322166443
+00:18:43,364 root INFO Program Fx2 stats calculation (in sec.): 0.015135049819946289
+00:18:52,814 root INFO Program Fx2 calculation (in sec.): 28.653177976608276
+00:18:52,831 root INFO Program Fx2 stats calculation (in sec.): 0.01705312728881836
+00:19:02,610 root INFO Program Fx2 calculation (in sec.): 38.44901394844055
+00:19:02,633 root INFO Program Fx2 stats calculation (in sec.): 0.02254199981689453
+00:19:10,859 root INFO Program Fx2 calculation (in sec.): 46.69835424423218
+00:19:10,883 root INFO Program Fx2 stats calculation (in sec.): 0.023506879806518555
+00:19:19,805 root INFO Program Fx2 calculation (in sec.): 55.643898010253906
+00:19:19,831 root INFO Program Fx2 stats calculation (in sec.): 0.02648305892944336
+00:19:27,995 root INFO Program Fx2 calculation (in sec.): 63.83422517776489
+00:19:28,25 root INFO Program Fx2 stats calculation (in sec.): 0.029870033264160156
+00:19:37,316 root INFO Program Fx2 calculation (in sec.): 73.15460395812988
+00:19:37,350 root INFO Program Fx2 stats calculation (in sec.): 0.03382396697998047
+00:19:47,134 root INFO Program F5122subx2 calculation (in sec.): 9.78360390663147
+00:19:47,145 root INFO Program F5122subx2 stats calculation (in sec.): 0.011851072311401367
+00:19:57,170 root INFO Program F5122subx2 calculation (in sec.): 19.81991195678711
+00:19:57,189 root INFO Program F5122subx2 stats calculation (in sec.): 0.01895904541015625
+00:20:06,683 root INFO Program F5122subx2 calculation (in sec.): 29.33264994621277
+00:20:06,730 root INFO Program F5122subx2 stats calculation (in sec.): 0.04715609550476074
+00:20:17,317 root INFO Program F5122subx2 calculation (in sec.): 39.96741199493408
+00:20:17,338 root INFO Program F5122subx2 stats calculation (in sec.): 0.020819902420043945
+00:20:26,160 root INFO Program F5122subx2 calculation (in sec.): 48.810081005096436
+00:20:26,185 root INFO Program F5122subx2 stats calculation (in sec.): 0.02506089210510254
+00:20:35,896 root INFO Program F5122subx2 calculation (in sec.): 58.54635500907898
+00:20:35,925 root INFO Program F5122subx2 stats calculation (in sec.): 0.028441905975341797
+00:20:45,554 root INFO Program F5122subx2 calculation (in sec.): 68.20405578613281
+00:20:45,607 root INFO Program F5122subx2 stats calculation (in sec.): 0.0533900260925293
+00:20:55,567 root INFO Program F5122subx2 calculation (in sec.): 78.21734404563904
+00:20:55,600 root INFO Program F5122subx2 stats calculation (in sec.): 0.03244590759277344
+00:25:10,903 root INFO Program FHD calculation (in sec.): 10.694692850112915
+00:25:10,923 root INFO Program FHD stats calculation (in sec.): 0.02003312110900879
+00:25:19,834 root INFO Program FHD calculation (in sec.): 19.62571692466736
+00:25:19,848 root INFO Program FHD stats calculation (in sec.): 0.014250040054321289
+00:25:28,994 root INFO Program FHD calculation (in sec.): 28.785332918167114
+00:25:29,10 root INFO Program FHD stats calculation (in sec.): 0.016766071319580078
+00:25:38,360 root INFO Program FHD calculation (in sec.): 38.15210700035095
+00:25:38,380 root INFO Program FHD stats calculation (in sec.): 0.0199129581451416
+00:25:48,316 root INFO Program Fx2 calculation (in sec.): 9.935461044311523
+00:25:48,328 root INFO Program Fx2 stats calculation (in sec.): 0.012162923812866211
+00:25:58,612 root INFO Program Fx2 calculation (in sec.): 20.231277227401733
+00:25:58,626 root INFO Program Fx2 stats calculation (in sec.): 0.01410365104675293
+00:26:08,667 root INFO Program Fx2 calculation (in sec.): 30.28661799430847
+00:26:08,684 root INFO Program Fx2 stats calculation (in sec.): 0.016952991485595703
+00:26:18,785 root INFO Program Fx2 calculation (in sec.): 40.40390110015869
+00:26:18,805 root INFO Program Fx2 stats calculation (in sec.): 0.020798921585083008
+00:26:28,5 root INFO Program Fx2 calculation (in sec.): 49.6243851184845
+00:26:28,44 root INFO Program Fx2 stats calculation (in sec.): 0.03867793083190918
+00:26:38,476 root INFO Program Fx2 calculation (in sec.): 60.095139265060425
+00:26:38,502 root INFO Program Fx2 stats calculation (in sec.): 0.026167631149291992
+00:26:48,216 root INFO Program Fx2 calculation (in sec.): 69.83500719070435
+00:26:48,245 root INFO Program Fx2 stats calculation (in sec.): 0.02880406379699707
+00:26:58,240 root INFO Program Fx2 calculation (in sec.): 79.85948204994202
+00:26:58,271 root INFO Program Fx2 stats calculation (in sec.): 0.030881881713867188
+00:27:07,901 root INFO Program F5122subx2 calculation (in sec.): 9.629163026809692
+00:27:07,913 root INFO Program F5122subx2 stats calculation (in sec.): 0.01219034194946289
+00:27:17,646 root INFO Program F5122subx2 calculation (in sec.): 19.374062061309814
+00:27:17,666 root INFO Program F5122subx2 stats calculation (in sec.): 0.020242929458618164
+00:27:26,460 root INFO Program F5122subx2 calculation (in sec.): 28.1887149810791
+00:27:26,477 root INFO Program F5122subx2 stats calculation (in sec.): 0.01704716682434082
+00:27:35,547 root INFO Program F5122subx2 calculation (in sec.): 37.27566838264465
+00:27:35,574 root INFO Program F5122subx2 stats calculation (in sec.): 0.027116775512695312
+00:27:45,110 root INFO Program F5122subx2 calculation (in sec.): 46.83857822418213
+00:27:45,142 root INFO Program F5122subx2 stats calculation (in sec.): 0.03147602081298828
+00:27:54,298 root INFO Program F5122subx2 calculation (in sec.): 56.02690029144287
+00:27:54,324 root INFO Program F5122subx2 stats calculation (in sec.): 0.025835037231445312
+00:28:05,188 root INFO Program F5122subx2 calculation (in sec.): 66.91602039337158
+00:28:05,243 root INFO Program F5122subx2 stats calculation (in sec.): 0.05564165115356445
+00:28:15,834 root INFO Program F5122subx2 calculation (in sec.): 77.56269431114197
+00:28:15,930 root INFO Program F5122subx2 stats calculation (in sec.): 0.09562897682189941
+00:28:33,761 root INFO Noise FConst calculation (in sec.): 17.83090901374817
+00:28:33,762 root INFO Noise FConst stats calculation (in sec.): 0.00090789794921875
+00:28:33,800 root INFO Program calculation (in sec.): 213.79720997810364
+00:37:18,951 root INFO Program FHD calculation (in sec.): 10.768762826919556
+00:37:18,965 root INFO Program FHD stats calculation (in sec.): 0.014826059341430664
+00:37:29,313 root INFO Program FHD calculation (in sec.): 21.13087296485901
+00:37:29,352 root INFO Program FHD stats calculation (in sec.): 0.039415836334228516
+00:37:38,451 root INFO Program FHD calculation (in sec.): 30.269549131393433
+00:37:38,469 root INFO Program FHD stats calculation (in sec.): 0.01744985580444336
+00:37:46,972 root INFO Program FHD calculation (in sec.): 38.79033708572388
+00:37:46,992 root INFO Program FHD stats calculation (in sec.): 0.020082950592041016
+00:37:56,68 root INFO Program Fx2 calculation (in sec.): 9.07527208328247
+00:37:56,80 root INFO Program Fx2 stats calculation (in sec.): 0.011798858642578125
+00:38:06,627 root INFO Program Fx2 calculation (in sec.): 19.634457111358643
+00:38:06,641 root INFO Program Fx2 stats calculation (in sec.): 0.014302968978881836
+00:38:15,759 root INFO Program Fx2 calculation (in sec.): 28.766770124435425
+00:38:15,777 root INFO Program Fx2 stats calculation (in sec.): 0.017522811889648438
+00:38:25,662 root INFO Program Fx2 calculation (in sec.): 38.66984009742737
+00:38:25,683 root INFO Program Fx2 stats calculation (in sec.): 0.020138978958129883
+00:38:35,259 root INFO Program Fx2 calculation (in sec.): 48.266823053359985
+00:38:35,290 root INFO Program Fx2 stats calculation (in sec.): 0.030598878860473633
+00:38:44,6 root INFO Program Fx2 calculation (in sec.): 57.013864040374756
+00:38:44,39 root INFO Program Fx2 stats calculation (in sec.): 0.032846927642822266
+00:38:53,451 root INFO Program Fx2 calculation (in sec.): 66.45890974998474
+00:38:53,481 root INFO Program Fx2 stats calculation (in sec.): 0.02981424331665039
+00:39:03,735 root INFO Program Fx2 calculation (in sec.): 76.74214291572571
+00:39:03,769 root INFO Program Fx2 stats calculation (in sec.): 0.03407883644104004
+00:39:14,30 root INFO Program F5122subx2 calculation (in sec.): 10.260878086090088
+00:39:14,42 root INFO Program F5122subx2 stats calculation (in sec.): 0.01174306869506836
+00:39:24,475 root INFO Program F5122subx2 calculation (in sec.): 20.70632290840149
+00:39:24,489 root INFO Program F5122subx2 stats calculation (in sec.): 0.01342010498046875
+00:39:34,488 root INFO Program F5122subx2 calculation (in sec.): 30.7192120552063
+00:39:34,506 root INFO Program F5122subx2 stats calculation (in sec.): 0.017452001571655273
+00:39:44,374 root INFO Program F5122subx2 calculation (in sec.): 40.60474395751953
+00:39:44,406 root INFO Program F5122subx2 stats calculation (in sec.): 0.032257080078125
+00:39:54,702 root INFO Program F5122subx2 calculation (in sec.): 50.932724952697754
+00:39:54,729 root INFO Program F5122subx2 stats calculation (in sec.): 0.026699066162109375
+00:45:46,908 root INFO Program FHD calculation (in sec.): 10.466294050216675
+00:45:46,934 root INFO Program FHD stats calculation (in sec.): 0.026346921920776367
+00:45:57,475 root INFO Program FHD calculation (in sec.): 21.033668756484985
+00:45:57,498 root INFO Program FHD stats calculation (in sec.): 0.0232541561126709
+00:46:07,355 root INFO Program FHD calculation (in sec.): 30.914236783981323
+00:46:07,379 root INFO Program FHD stats calculation (in sec.): 0.023121356964111328
+00:46:17,169 root INFO Program FHD calculation (in sec.): 40.727294921875
+00:46:17,192 root INFO Program FHD stats calculation (in sec.): 0.023602962493896484
+00:46:26,604 root INFO Program Fx2 calculation (in sec.): 9.41110873222351
+00:46:26,619 root INFO Program Fx2 stats calculation (in sec.): 0.014858007431030273
+00:46:35,355 root INFO Program Fx2 calculation (in sec.): 18.1629056930542
+00:46:35,372 root INFO Program Fx2 stats calculation (in sec.): 0.016260147094726562
+00:46:45,360 root INFO Program Fx2 calculation (in sec.): 28.16750168800354
+00:46:45,386 root INFO Program Fx2 stats calculation (in sec.): 0.0261991024017334
+00:47:24,538 root INFO Program FHD calculation (in sec.): 10.117238998413086
+00:47:24,559 root INFO Program FHD stats calculation (in sec.): 0.0210268497467041
+00:47:35,117 root INFO Program FHD calculation (in sec.): 20.696589946746826
+00:47:35,133 root INFO Program FHD stats calculation (in sec.): 0.01660299301147461
+00:47:44,128 root INFO Program FHD calculation (in sec.): 29.70753312110901
+00:47:44,145 root INFO Program FHD stats calculation (in sec.): 0.017099857330322266
+00:47:54,15 root INFO Program FHD calculation (in sec.): 39.59452295303345
+00:47:54,34 root INFO Program FHD stats calculation (in sec.): 0.01970076560974121
+00:48:04,530 root INFO Program Fx2 calculation (in sec.): 10.494952917098999
+00:48:04,550 root INFO Program Fx2 stats calculation (in sec.): 0.020432233810424805
+00:48:14,659 root INFO Program Fx2 calculation (in sec.): 20.623952865600586
+00:48:14,673 root INFO Program Fx2 stats calculation (in sec.): 0.014405250549316406
+00:48:24,473 root INFO Program Fx2 calculation (in sec.): 30.437636137008667
+00:48:24,490 root INFO Program Fx2 stats calculation (in sec.): 0.01738882064819336
+00:48:34,950 root INFO Program Fx2 calculation (in sec.): 40.91486096382141
+00:48:34,970 root INFO Program Fx2 stats calculation (in sec.): 0.01986384391784668
+00:48:44,86 root INFO Program Fx2 calculation (in sec.): 50.05059576034546
+00:48:44,124 root INFO Program Fx2 stats calculation (in sec.): 0.03874921798706055
+00:48:54,462 root INFO Program Fx2 calculation (in sec.): 60.426676988601685
+00:48:54,486 root INFO Program Fx2 stats calculation (in sec.): 0.024616003036499023
+00:49:03,625 root INFO Program Fx2 calculation (in sec.): 69.59023690223694
+00:49:03,655 root INFO Program Fx2 stats calculation (in sec.): 0.029543161392211914
+00:49:14,183 root INFO Program Fx2 calculation (in sec.): 80.14796495437622
+00:49:14,254 root INFO Program Fx2 stats calculation (in sec.): 0.0714559555053711
+00:49:23,883 root INFO Program F5122subx2 calculation (in sec.): 9.628628969192505
+00:49:23,894 root INFO Program F5122subx2 stats calculation (in sec.): 0.011034250259399414
+00:49:35,286 root INFO Program F5122subx2 calculation (in sec.): 21.030867338180542
+00:49:35,300 root INFO Program F5122subx2 stats calculation (in sec.): 0.014662742614746094
+00:49:45,297 root INFO Program F5122subx2 calculation (in sec.): 31.042545318603516
+00:49:45,315 root INFO Program F5122subx2 stats calculation (in sec.): 0.01815176010131836
+00:49:56,907 root INFO Program F5122subx2 calculation (in sec.): 42.652101278305054
+00:49:56,927 root INFO Program F5122subx2 stats calculation (in sec.): 0.020409107208251953
+00:50:06,700 root INFO Program F5122subx2 calculation (in sec.): 52.44517922401428
+00:50:06,727 root INFO Program F5122subx2 stats calculation (in sec.): 0.027127981185913086
+00:50:17,122 root INFO Program F5122subx2 calculation (in sec.): 62.86752510070801
+00:50:17,154 root INFO Program F5122subx2 stats calculation (in sec.): 0.032028913497924805
+00:50:26,724 root INFO Program F5122subx2 calculation (in sec.): 72.4687271118164
+00:50:26,778 root INFO Program F5122subx2 stats calculation (in sec.): 0.0545351505279541
+00:50:37,13 root INFO Program F5122subx2 calculation (in sec.): 82.75808715820312
+00:50:37,44 root INFO Program F5122subx2 stats calculation (in sec.): 0.03138422966003418
+00:51:40,981 root INFO Program FHD calculation (in sec.): 11.846633195877075
+00:51:40,993 root INFO Program FHD stats calculation (in sec.): 0.01191091537475586
+00:51:50,619 root INFO Program FHD calculation (in sec.): 21.48454999923706
+00:51:50,636 root INFO Program FHD stats calculation (in sec.): 0.017136096954345703
+00:52:00,521 root INFO Program FHD calculation (in sec.): 31.38661813735962
+00:52:00,538 root INFO Program FHD stats calculation (in sec.): 0.017705917358398438
+00:52:09,797 root INFO Program FHD calculation (in sec.): 40.66334891319275
+00:52:09,835 root INFO Program FHD stats calculation (in sec.): 0.03766226768493652
+00:52:18,597 root INFO Program Fx2 calculation (in sec.): 8.761197090148926
+00:52:18,608 root INFO Program Fx2 stats calculation (in sec.): 0.01160883903503418
+00:52:27,765 root INFO Program Fx2 calculation (in sec.): 17.929648876190186
+00:52:27,780 root INFO Program Fx2 stats calculation (in sec.): 0.014933109283447266
+00:52:36,818 root INFO Program Fx2 calculation (in sec.): 26.98276710510254
+00:52:36,844 root INFO Program Fx2 stats calculation (in sec.): 0.02536296844482422
+00:52:46,415 root INFO Program Fx2 calculation (in sec.): 36.57903790473938
+00:52:46,445 root INFO Program Fx2 stats calculation (in sec.): 0.030628204345703125
+00:52:55,428 root INFO Program Fx2 calculation (in sec.): 45.592113971710205
+00:52:55,452 root INFO Program Fx2 stats calculation (in sec.): 0.024169921875
+00:53:04,320 root INFO Program Fx2 calculation (in sec.): 54.48416495323181
+00:53:04,350 root INFO Program Fx2 stats calculation (in sec.): 0.029893159866333008
+00:53:14,766 root INFO Program Fx2 calculation (in sec.): 64.93093395233154
+00:53:14,797 root INFO Program Fx2 stats calculation (in sec.): 0.03014826774597168
+00:53:24,592 root INFO Program Fx2 calculation (in sec.): 74.75676798820496
+00:53:24,638 root INFO Program Fx2 stats calculation (in sec.): 0.04621291160583496
+00:53:34,424 root INFO Program F5122subx2 calculation (in sec.): 9.784786939620972
+00:53:34,468 root INFO Program F5122subx2 stats calculation (in sec.): 0.04365801811218262
+00:53:44,218 root INFO Program F5122subx2 calculation (in sec.): 19.578120946884155
+00:53:44,242 root INFO Program F5122subx2 stats calculation (in sec.): 0.024338960647583008
+00:53:53,705 root INFO Program F5122subx2 calculation (in sec.): 29.06512999534607
+00:53:53,730 root INFO Program F5122subx2 stats calculation (in sec.): 0.02511000633239746
+00:54:02,454 root INFO Program F5122subx2 calculation (in sec.): 37.81497097015381
+00:54:02,477 root INFO Program F5122subx2 stats calculation (in sec.): 0.02215123176574707
+00:54:11,103 root INFO Program F5122subx2 calculation (in sec.): 46.46396493911743
+00:54:11,154 root INFO Program F5122subx2 stats calculation (in sec.): 0.05038595199584961
+00:54:20,190 root INFO Program F5122subx2 calculation (in sec.): 55.55014514923096
+00:54:20,222 root INFO Program F5122subx2 stats calculation (in sec.): 0.03256678581237793
+00:54:28,896 root INFO Program F5122subx2 calculation (in sec.): 64.25670623779297
+00:54:28,949 root INFO Program F5122subx2 stats calculation (in sec.): 0.05259585380554199
+00:54:38,791 root INFO Program F5122subx2 calculation (in sec.): 74.15053796768188
+00:54:38,828 root INFO Program F5122subx2 stats calculation (in sec.): 0.03808712959289551
+00:56:40,805 root INFO Program FHD calculation (in sec.): 11.08164095878601
+00:56:40,819 root INFO Program FHD stats calculation (in sec.): 0.014309167861938477
+00:56:50,939 root INFO Program FHD calculation (in sec.): 21.21521306037903
+00:56:50,955 root INFO Program FHD stats calculation (in sec.): 0.01594996452331543
+00:57:01,228 root INFO Program FHD calculation (in sec.): 31.504966020584106
+00:57:01,246 root INFO Program FHD stats calculation (in sec.): 0.01738595962524414
+00:57:10,918 root INFO Program FHD calculation (in sec.): 41.1950101852417
+00:57:10,942 root INFO Program FHD stats calculation (in sec.): 0.02343606948852539
+00:57:22,619 root INFO Noise FConst calculation (in sec.): 11.676232814788818
+00:57:22,619 root INFO Noise FConst stats calculation (in sec.): 0.0005822181701660156
+00:57:22,631 root INFO Program calculation (in sec.): 53.268500089645386
+00:59:03,232 root INFO Program FHD calculation (in sec.): 16.026820182800293
+00:59:03,246 root INFO Program FHD stats calculation (in sec.): 0.014333009719848633
+00:59:14,149 root INFO Program FHD calculation (in sec.): 26.94384002685547
+00:59:14,165 root INFO Program FHD stats calculation (in sec.): 0.01563405990600586
+00:59:24,69 root INFO Program FHD calculation (in sec.): 36.8639280796051
+00:59:24,86 root INFO Program FHD stats calculation (in sec.): 0.017242908477783203
+00:59:34,766 root INFO Program FHD calculation (in sec.): 47.56083106994629
+00:59:34,786 root INFO Program FHD stats calculation (in sec.): 0.020225048065185547
+00:59:44,152 root INFO Program Fx2 calculation (in sec.): 9.365746974945068
+00:59:44,180 root INFO Program Fx2 stats calculation (in sec.): 0.02725815773010254
+00:59:54,775 root INFO Program Fx2 calculation (in sec.): 19.988669872283936
+00:59:54,790 root INFO Program Fx2 stats calculation (in sec.): 0.014288187026977539
+01:00:04,716 root INFO Program Fx2 calculation (in sec.): 29.929814100265503
+01:00:04,750 root INFO Program Fx2 stats calculation (in sec.): 0.03362607955932617
+01:00:15,433 root INFO Program Fx2 calculation (in sec.): 40.64620518684387
+01:00:15,454 root INFO Program Fx2 stats calculation (in sec.): 0.021153926849365234
+01:00:25,968 root INFO Program Fx2 calculation (in sec.): 51.18110704421997
+01:00:25,992 root INFO Program Fx2 stats calculation (in sec.): 0.024202823638916016
+01:00:37,283 root INFO Program Fx2 calculation (in sec.): 62.49674415588379
+01:00:37,310 root INFO Program Fx2 stats calculation (in sec.): 0.0267789363861084
+01:00:47,820 root INFO Program Fx2 calculation (in sec.): 73.03366303443909
+01:00:47,851 root INFO Program Fx2 stats calculation (in sec.): 0.030466079711914062
+01:00:59,411 root INFO Program Fx2 calculation (in sec.): 84.6241500377655
+01:00:59,444 root INFO Program Fx2 stats calculation (in sec.): 0.03281402587890625
+01:01:10,239 root INFO Program F5122subx2 calculation (in sec.): 10.794727087020874
+01:01:10,256 root INFO Program F5122subx2 stats calculation (in sec.): 0.01737189292907715
+01:01:21,750 root INFO Program F5122subx2 calculation (in sec.): 22.305832147598267
+01:01:21,765 root INFO Program F5122subx2 stats calculation (in sec.): 0.015347957611083984
+01:01:32,559 root INFO Program F5122subx2 calculation (in sec.): 33.115302085876465
+01:01:32,578 root INFO Program F5122subx2 stats calculation (in sec.): 0.018455982208251953
+01:13:53,589 root INFO Program FHD calculation (in sec.): 351.3493118286133
+01:13:53,748 root INFO Program FHD stats calculation (in sec.): 0.15868806838989258
+01:17:09,462 root INFO Program FHD calculation (in sec.): 547.2222671508789
+01:17:09,709 root INFO Program FHD stats calculation (in sec.): 0.24708986282348633
+01:19:01,916 root INFO Program FHD calculation (in sec.): 659.6757369041443
+01:19:02,223 root INFO Program FHD stats calculation (in sec.): 0.3078451156616211
+01:21:38,169 root INFO Program FHD calculation (in sec.): 815.9294381141663
+01:21:38,568 root INFO Program FHD stats calculation (in sec.): 0.399212121963501
+01:23:26,399 root INFO Program Fx2 calculation (in sec.): 107.82544422149658
+01:23:26,518 root INFO Program Fx2 stats calculation (in sec.): 0.11877989768981934
+01:27:59,197 root INFO Program Fx2 calculation (in sec.): 380.623486995697
+01:27:59,449 root INFO Program Fx2 stats calculation (in sec.): 0.2513902187347412
+01:29:48,114 root INFO Program Fx2 calculation (in sec.): 489.5404300689697
+01:29:48,460 root INFO Program Fx2 stats calculation (in sec.): 0.3456861972808838
+01:33:32,708 root INFO Program Fx2 calculation (in sec.): 714.1346843242645
+01:33:33,154 root INFO Program Fx2 stats calculation (in sec.): 0.4455869197845459
+01:35:20,775 root INFO Program Fx2 calculation (in sec.): 822.2010691165924
+01:35:21,308 root INFO Program Fx2 stats calculation (in sec.): 0.5329761505126953
+01:39:15,557 root INFO Program Fx2 calculation (in sec.): 1056.9831800460815
+01:39:16,258 root INFO Program Fx2 stats calculation (in sec.): 0.7008571624755859
+01:41:02,547 root INFO Program Fx2 calculation (in sec.): 1163.9735951423645
+01:41:03,329 root INFO Program Fx2 stats calculation (in sec.): 0.7817540168762207
+01:44:23,631 root INFO Program Fx2 calculation (in sec.): 1365.0576782226562
+01:44:24,457 root INFO Program Fx2 stats calculation (in sec.): 0.8256089687347412
+01:47:05,750 root INFO Program F5122subx2 calculation (in sec.): 161.28796291351318
+01:47:05,966 root INFO Program F5122subx2 stats calculation (in sec.): 0.21528410911560059
+01:51:27,784 root INFO Program F5122subx2 calculation (in sec.): 423.32152104377747
+01:51:27,991 root INFO Program F5122subx2 stats calculation (in sec.): 0.20727086067199707
+01:53:16,667 root INFO Program F5122subx2 calculation (in sec.): 532.2043437957764
+01:53:17,50 root INFO Program F5122subx2 stats calculation (in sec.): 0.383378267288208
+01:56:54,207 root INFO Program F5122subx2 calculation (in sec.): 749.7443468570709
+01:56:54,672 root INFO Program F5122subx2 stats calculation (in sec.): 0.465360164642334
+01:59:20,604 root INFO Program F5122subx2 calculation (in sec.): 896.1413290500641
+01:59:21,169 root INFO Program F5122subx2 stats calculation (in sec.): 0.5656349658966064
+02:03:31,772 root INFO Program F5122subx2 calculation (in sec.): 1147.3096652030945
+02:03:32,416 root INFO Program F5122subx2 stats calculation (in sec.): 0.643845796585083
+02:05:22,193 root INFO Program F5122subx2 calculation (in sec.): 1257.731260061264
+02:05:23,51 root INFO Program F5122subx2 stats calculation (in sec.): 0.8574259281158447
+02:10:38,373 root INFO Program F5122subx2 calculation (in sec.): 1573.9107599258423
+02:10:39,257 root INFO Program F5122subx2 stats calculation (in sec.): 0.8843662738800049
+02:12:26,973 root INFO Program Fecx_025 calculation (in sec.): 107.7090482711792
+02:12:27,92 root INFO Program Fecx_025 stats calculation (in sec.): 0.11940574645996094
+02:16:59,135 root INFO Program Fecx_025 calculation (in sec.): 379.8711471557617
+02:16:59,343 root INFO Program Fecx_025 stats calculation (in sec.): 0.2084038257598877
+02:18:43,919 root INFO Program Fecx_025 calculation (in sec.): 484.6550621986389
+02:18:44,404 root INFO Program Fecx_025 stats calculation (in sec.): 0.48553895950317383
+02:22:32,222 root INFO Program Fecx_025 calculation (in sec.): 712.9581170082092
+02:22:32,730 root INFO Program Fecx_025 stats calculation (in sec.): 0.5081121921539307
+02:24:22,753 root INFO Program Fecx_025 calculation (in sec.): 823.4896190166473
+02:24:23,443 root INFO Program Fecx_025 stats calculation (in sec.): 0.6896519660949707
+02:28:23,264 root INFO Program Fecx_025 calculation (in sec.): 1064.000675201416
+02:28:23,953 root INFO Program Fecx_025 stats calculation (in sec.): 0.6884360313415527
+02:30:10,44 root INFO Program Fecx_025 calculation (in sec.): 1170.7800369262695
+02:30:10,800 root INFO Program Fecx_025 stats calculation (in sec.): 0.7566721439361572
+02:33:23,840 root INFO Program Fecx_025 calculation (in sec.): 1364.5763530731201
+02:33:24,851 root INFO Program Fecx_025 stats calculation (in sec.): 1.0106000900268555
+04:53:45,316 root INFO Noise FConst calculation (in sec.): 8420.459385871887
+04:53:45,325 root INFO Noise FConst stats calculation (in sec.): 0.008975982666015625
+04:53:45,466 root INFO Program calculation (in sec.): 13543.303006410599
+17:10:18,17 root INFO Program FHD calculation (in sec.): 120.50758409500122
+17:10:18,93 root INFO Program FHD stats calculation (in sec.): 0.07700061798095703
+17:10:37,605 root INFO Program FHD calculation (in sec.): 140.0965838432312
+17:10:37,653 root INFO Program FHD stats calculation (in sec.): 0.04803586006164551
+17:10:51,358 root INFO Program FHD calculation (in sec.): 153.84958457946777
+17:10:51,407 root INFO Program FHD stats calculation (in sec.): 0.04899954795837402
+17:11:07,429 root INFO Program FHD calculation (in sec.): 169.92058444023132
+17:11:07,484 root INFO Program FHD stats calculation (in sec.): 0.054999589920043945
+17:11:23,85 root INFO Program Fx2 calculation (in sec.): 15.600000143051147
+17:11:23,126 root INFO Program Fx2 stats calculation (in sec.): 0.0410003662109375
+17:11:52,706 root INFO Program Fx2 calculation (in sec.): 45.22069191932678
+17:11:52,754 root INFO Program Fx2 stats calculation (in sec.): 0.04800271987915039
+17:12:09,764 root INFO Program Fx2 calculation (in sec.): 62.278724908828735
+17:12:09,815 root INFO Program Fx2 stats calculation (in sec.): 0.05096793174743652
+17:12:34,31 root INFO Program Fx2 calculation (in sec.): 86.54572653770447
+17:12:34,90 root INFO Program Fx2 stats calculation (in sec.): 0.05887794494628906
+17:12:50,453 root INFO Program Fx2 calculation (in sec.): 102.96760439872742
+17:12:50,514 root INFO Program Fx2 stats calculation (in sec.): 0.060999393463134766
+17:13:16,181 root INFO Program Fx2 calculation (in sec.): 128.6956045627594
+17:13:16,244 root INFO Program Fx2 stats calculation (in sec.): 0.06299948692321777
+17:13:32,285 root INFO Program Fx2 calculation (in sec.): 144.79960441589355
+17:13:32,373 root INFO Program Fx2 stats calculation (in sec.): 0.08800196647644043
+17:13:54,418 root INFO Program Fx2 calculation (in sec.): 166.93261885643005
+17:13:54,488 root INFO Program Fx2 stats calculation (in sec.): 0.06998515129089355
+17:14:09,826 root INFO Program F5122subx2 calculation (in sec.): 15.336998701095581
+17:14:09,907 root INFO Program F5122subx2 stats calculation (in sec.): 0.08100152015686035
+17:14:36,95 root INFO Program F5122subx2 calculation (in sec.): 41.6059992313385
+17:14:36,144 root INFO Program F5122subx2 stats calculation (in sec.): 0.04900074005126953
+17:15:12,892 root INFO Program F5122subx2 calculation (in sec.): 78.4032301902771
+17:15:13,14 root INFO Program F5122subx2 stats calculation (in sec.): 0.12226700782775879
+17:15:37,992 root INFO Program F5122subx2 calculation (in sec.): 103.50349926948547
+17:15:38,49 root INFO Program F5122subx2 stats calculation (in sec.): 0.05697345733642578
+17:17:42,792 root INFO Program F5122subx2 calculation (in sec.): 228.30346584320068
+17:17:42,855 root INFO Program F5122subx2 stats calculation (in sec.): 0.06299948692321777
+17:18:07,869 root INFO Program F5122subx2 calculation (in sec.): 253.38049983978271
+17:18:07,949 root INFO Program F5122subx2 stats calculation (in sec.): 0.08000731468200684
+17:18:24,553 root INFO Program F5122subx2 calculation (in sec.): 270.06446957588196
+17:18:24,623 root INFO Program F5122subx2 stats calculation (in sec.): 0.06999683380126953
+17:18:49,604 root INFO Program F5122subx2 calculation (in sec.): 295.1155002117157
+17:18:49,677 root INFO Program F5122subx2 stats calculation (in sec.): 0.0729665756225586
+17:23:03,682 root INFO Program FHD calculation (in sec.): 14.425241708755493
+17:23:03,750 root INFO Program FHD stats calculation (in sec.): 0.06796979904174805
+17:23:12,428 root INFO Program FHD calculation (in sec.): 23.17120671272278
+17:23:12,472 root INFO Program FHD stats calculation (in sec.): 0.043998003005981445
+17:23:20,482 root INFO Program FHD calculation (in sec.): 31.2252037525177
+17:23:20,527 root INFO Program FHD stats calculation (in sec.): 0.04500150680541992
+17:23:29,95 root INFO Program FHD calculation (in sec.): 39.838239669799805
+17:23:29,151 root INFO Program FHD stats calculation (in sec.): 0.05670738220214844
+17:23:39,380 root INFO Program Fx2 calculation (in sec.): 10.22906231880188
+17:23:39,449 root INFO Program Fx2 stats calculation (in sec.): 0.0689997673034668
+17:23:51,95 root INFO Program Fx2 calculation (in sec.): 21.94406247138977
+17:23:51,138 root INFO Program Fx2 stats calculation (in sec.): 0.0429990291595459
+17:24:01,552 root INFO Program Fx2 calculation (in sec.): 32.40106177330017
+17:24:01,599 root INFO Program Fx2 stats calculation (in sec.): 0.04700016975402832
+17:24:13,55 root INFO Program Fx2 calculation (in sec.): 43.9035439491272
+17:24:13,230 root INFO Program Fx2 stats calculation (in sec.): 0.17470836639404297
+17:24:23,849 root INFO Program Fx2 calculation (in sec.): 54.697813749313354
+17:24:23,906 root INFO Program Fx2 stats calculation (in sec.): 0.057123661041259766
+17:24:35,285 root INFO Program Fx2 calculation (in sec.): 66.13336491584778
+17:24:35,344 root INFO Program Fx2 stats calculation (in sec.): 0.058998823165893555
+17:24:45,840 root INFO Program Fx2 calculation (in sec.): 76.68840050697327
+17:24:45,904 root INFO Program Fx2 stats calculation (in sec.): 0.06296443939208984
+17:24:56,979 root INFO Program Fx2 calculation (in sec.): 87.82736396789551
+17:24:57,46 root INFO Program Fx2 stats calculation (in sec.): 0.06703543663024902
+17:25:07,788 root INFO Program F5122subx2 calculation (in sec.): 10.741158485412598
+17:25:07,828 root INFO Program F5122subx2 stats calculation (in sec.): 0.03996586799621582
+17:25:19,931 root INFO Program F5122subx2 calculation (in sec.): 22.883246183395386
+17:25:19,978 root INFO Program F5122subx2 stats calculation (in sec.): 0.04800152778625488
+17:25:30,800 root INFO Program F5122subx2 calculation (in sec.): 33.75377702713013
+17:25:30,849 root INFO Program F5122subx2 stats calculation (in sec.): 0.0484769344329834
+17:25:42,206 root INFO Program F5122subx2 calculation (in sec.): 45.15929341316223
+17:25:42,259 root INFO Program F5122subx2 stats calculation (in sec.): 0.05296063423156738
+17:25:52,571 root INFO Program F5122subx2 calculation (in sec.): 55.52428889274597
+17:25:52,628 root INFO Program F5122subx2 stats calculation (in sec.): 0.05696415901184082
+17:26:04,198 root INFO Program F5122subx2 calculation (in sec.): 67.15129089355469
+17:26:04,258 root INFO Program F5122subx2 stats calculation (in sec.): 0.05996203422546387
+17:26:14,861 root INFO Program F5122subx2 calculation (in sec.): 77.81428933143616
+17:26:14,924 root INFO Program F5122subx2 stats calculation (in sec.): 0.06296348571777344
+17:26:26,344 root INFO Program F5122subx2 calculation (in sec.): 89.29728937149048
+17:26:26,413 root INFO Program F5122subx2 stats calculation (in sec.): 0.06899833679199219
+17:27:20,145 root INFO Noise FConst calculation (in sec.): 53.73196458816528
+17:27:20,145 root INFO Noise FConst stats calculation (in sec.): 0.0
+17:27:20,346 root INFO Program calculation (in sec.): 271.1918570995331
+17:50:05,983 root INFO Program FHD calculation (in sec.): 1119.7139973640442
+17:50:06,205 root INFO Program FHD stats calculation (in sec.): 0.2220458984375
+17:56:50,928 root INFO Program FHD calculation (in sec.): 1524.659030675888
+17:56:51,255 root INFO Program FHD stats calculation (in sec.): 0.3270120620727539
+18:01:09,62 root INFO Program FHD calculation (in sec.): 1782.7930324077606
+18:01:09,579 root INFO Program FHD stats calculation (in sec.): 0.5169143676757812
+18:06:47,986 root INFO Program FHD calculation (in sec.): 2121.716936349869
+18:06:48,607 root INFO Program FHD stats calculation (in sec.): 0.6210105419158936
+18:10:43,765 root INFO Program Fx2 calculation (in sec.): 235.14898657798767
+18:10:44,44 root INFO Program Fx2 stats calculation (in sec.): 0.2790107727050781
+18:20:20,127 root INFO Program Fx2 calculation (in sec.): 811.5109841823578
+18:20:20,761 root INFO Program Fx2 stats calculation (in sec.): 0.6338236331939697
+18:24:05,52 root INFO Program Fx2 calculation (in sec.): 1036.4356927871704
+18:24:05,577 root INFO Program Fx2 stats calculation (in sec.): 0.524998664855957
+18:31:59,264 root INFO Program Fx2 calculation (in sec.): 1510.647691488266
+18:31:59,962 root INFO Program Fx2 stats calculation (in sec.): 0.6980011463165283
+18:35:57,597 root INFO Program Fx2 calculation (in sec.): 1748.9806933403015
+18:35:58,488 root INFO Program Fx2 stats calculation (in sec.): 0.8909978866577148
+18:44:42,571 root INFO Program Fx2 calculation (in sec.): 2273.953728199005
+18:44:43,523 root INFO Program Fx2 stats calculation (in sec.): 0.95296311378479
+18:48:29,134 root INFO Program Fx2 calculation (in sec.): 2500.5183069705963
+18:48:30,645 root INFO Program Fx2 stats calculation (in sec.): 1.5110559463500977
+18:55:31,6 root INFO Program Fx2 calculation (in sec.): 2922.3903636932373
+18:55:32,171 root INFO Program Fx2 stats calculation (in sec.): 1.16499924659729
+19:00:51,519 root INFO Program F5122subx2 calculation (in sec.): 319.33885431289673
+19:00:51,724 root INFO Program F5122subx2 stats calculation (in sec.): 0.20503616333007812
+19:10:25,554 root INFO Program F5122subx2 calculation (in sec.): 893.3738899230957
+19:10:25,889 root INFO Program F5122subx2 stats calculation (in sec.): 0.33501338958740234
+19:14:13,621 root INFO Program F5122subx2 calculation (in sec.): 1121.4403054714203
+19:14:14,192 root INFO Program F5122subx2 stats calculation (in sec.): 0.5709905624389648
+19:21:55,196 root INFO Program F5122subx2 calculation (in sec.): 1583.0152957439423
+19:21:55,907 root INFO Program F5122subx2 stats calculation (in sec.): 0.7109997272491455
+19:27:02,64 root INFO Program F5122subx2 calculation (in sec.): 1889.8838636875153
+19:27:02,895 root INFO Program F5122subx2 stats calculation (in sec.): 0.8309674263000488
+19:36:48,316 root INFO Program F5122subx2 calculation (in sec.): 2476.135862827301
+19:36:49,284 root INFO Program F5122subx2 stats calculation (in sec.): 0.9680123329162598
+19:40:35,676 root INFO Program F5122subx2 calculation (in sec.): 2703.496143579483
+19:40:36,740 root INFO Program F5122subx2 stats calculation (in sec.): 1.0639777183532715
+19:51:59,211 root INFO Program F5122subx2 calculation (in sec.): 3387.030679702759
+19:52:00,585 root INFO Program F5122subx2 stats calculation (in sec.): 1.3740143775939941
+19:55:56,950 root INFO Program Fecx_025 calculation (in sec.): 236.35598707199097
+19:55:57,154 root INFO Program Fecx_025 stats calculation (in sec.): 0.20401334762573242
+20:05:42,579 root INFO Program Fecx_025 calculation (in sec.): 821.9849879741669
+20:05:43,67 root INFO Program Fecx_025 stats calculation (in sec.): 0.48801159858703613
+20:09:24,518 root INFO Program Fecx_025 calculation (in sec.): 1043.924522638321
+20:09:24,959 root INFO Program Fecx_025 stats calculation (in sec.): 0.44100475311279297
+20:17:08,893 root INFO Program Fecx_025 calculation (in sec.): 1508.2995221614838
+20:17:09,961 root INFO Program Fecx_025 stats calculation (in sec.): 1.0680148601531982
+20:21:07,642 root INFO Program Fecx_025 calculation (in sec.): 1747.0484960079193
+20:21:08,336 root INFO Program Fecx_025 stats calculation (in sec.): 0.6940412521362305
+20:29:47,334 root INFO Program Fecx_025 calculation (in sec.): 2266.7404928207397
+20:29:48,349 root INFO Program Fecx_025 stats calculation (in sec.): 1.0150465965270996
+20:33:28,557 root INFO Program Fecx_025 calculation (in sec.): 2487.963522195816
+20:33:29,720 root INFO Program Fecx_025 stats calculation (in sec.): 1.1630001068115234
+20:40:24,386 root INFO Program Fecx_025 calculation (in sec.): 2903.7925221920013
+20:40:25,663 root INFO Program Fecx_025 stats calculation (in sec.): 1.2769999504089355
+01:58:43,14 root INFO Program FHD calculation (in sec.): 2627.5682604312897
+01:58:43,277 root INFO Program FHD stats calculation (in sec.): 0.26300644874572754
+02:10:46,336 root INFO Program FHD calculation (in sec.): 3350.8892533779144
+02:10:46,664 root INFO Program FHD stats calculation (in sec.): 0.3290133476257324
+02:18:31,608 root INFO Program FHD calculation (in sec.): 3816.162256002426
+02:18:32,99 root INFO Program FHD stats calculation (in sec.): 0.491008996963501
+02:28:33,509 root INFO Program FHD calculation (in sec.): 4418.062220096588
+02:28:34,134 root INFO Program FHD stats calculation (in sec.): 0.6259975433349609
+02:35:30,465 root INFO Program Fx2 calculation (in sec.): 416.31900119781494
+02:35:30,749 root INFO Program Fx2 stats calculation (in sec.): 0.28405046463012695
+02:53:14,228 root INFO Program Fx2 calculation (in sec.): 1480.0820388793945
+02:53:14,662 root INFO Program Fx2 stats calculation (in sec.): 0.43401026725769043
+02:59:24,387 root INFO Program Fx2 calculation (in sec.): 1850.2410385608673
+02:59:24,911 root INFO Program Fx2 stats calculation (in sec.): 0.5240108966827393
+03:13:07,683 root INFO Program Fx2 calculation (in sec.): 2673.537127017975
+03:13:08,365 root INFO Program Fx2 stats calculation (in sec.): 0.6820113658905029
+03:19:59,508 root INFO Program Fx2 calculation (in sec.): 3085.362163543701
+03:20:00,305 root INFO Program Fx2 stats calculation (in sec.): 0.7970099449157715
+03:35:48,883 root INFO Program Fx2 calculation (in sec.): 4034.7371649742126
+03:35:49,813 root INFO Program Fx2 stats calculation (in sec.): 0.9300060272216797
+03:41:54,215 root INFO Program Fx2 calculation (in sec.): 4400.069160938263
+03:41:55,255 root INFO Program Fx2 stats calculation (in sec.): 1.040010929107666
+03:54:11,564 root INFO Program Fx2 calculation (in sec.): 5137.418160200119
+03:54:12,847 root INFO Program Fx2 stats calculation (in sec.): 1.2830109596252441
+04:06:10,474 root INFO Program F5122subx2 calculation (in sec.): 717.6139893531799
+04:06:10,686 root INFO Program F5122subx2 stats calculation (in sec.): 0.21221375465393066
+04:23:17,205 root INFO Program F5122subx2 calculation (in sec.): 1744.3448433876038
+04:23:17,668 root INFO Program F5122subx2 stats calculation (in sec.): 0.4630107879638672
+04:29:23,497 root INFO Program F5122subx2 calculation (in sec.): 2110.636837244034
+04:29:23,933 root INFO Program F5122subx2 stats calculation (in sec.): 0.43599963188171387
+04:58:58,646 root INFO Program F5122subx2 calculation (in sec.): 3885.757382631302
+04:59:01,377 root INFO Program F5122subx2 stats calculation (in sec.): 2.759599208831787
+05:13:35,906 root INFO Program F5122subx2 calculation (in sec.): 4763.04584813118
+05:13:37,246 root INFO Program F5122subx2 stats calculation (in sec.): 1.3391036987304688
+05:31:35,312 root INFO Program F5122subx2 calculation (in sec.): 5842.45196557045
+05:31:36,577 root INFO Program F5122subx2 stats calculation (in sec.): 1.2648751735687256
+05:38:06,53 root INFO Program F5122subx2 calculation (in sec.): 6233.19339799881
+05:38:07,488 root INFO Program F5122subx2 stats calculation (in sec.): 1.4349420070648193
+05:52:21,22 root INFO Program F5122subx2 calculation (in sec.): 7088.162614107132
+05:52:22,823 root INFO Program F5122subx2 stats calculation (in sec.): 1.8006904125213623
+05:59:16,370 root INFO Program Fecx_025 calculation (in sec.): 413.5330092906952
+05:59:16,720 root INFO Program Fecx_025 stats calculation (in sec.): 0.34987616539001465
+06:16:54,483 root INFO Program Fecx_025 calculation (in sec.): 1471.6459002494812
+06:16:55,390 root INFO Program Fecx_025 stats calculation (in sec.): 0.906792163848877
+06:23:03,302 root INFO Program Fecx_025 calculation (in sec.): 1840.4636931419373
+06:23:03,777 root INFO Program Fecx_025 stats calculation (in sec.): 0.4759995937347412
+06:36:49,504 root INFO Program Fecx_025 calculation (in sec.): 2666.666692495346
+06:36:50,437 root INFO Program Fecx_025 stats calculation (in sec.): 0.9333081245422363
+06:43:51,481 root INFO Program Fecx_025 calculation (in sec.): 3088.64395570755
+06:43:52,385 root INFO Program Fecx_025 stats calculation (in sec.): 0.9039604663848877
+06:59:29,134 root INFO Program Fecx_025 calculation (in sec.): 4026.2969031333923
+06:59:30,235 root INFO Program Fecx_025 stats calculation (in sec.): 1.1014158725738525
+07:05:45,311 root INFO Program Fecx_025 calculation (in sec.): 4402.474318027496
+07:05:46,390 root INFO Program Fecx_025 stats calculation (in sec.): 1.0790009498596191
+07:18:08,427 root INFO Program Fecx_025 calculation (in sec.): 5145.589331626892
+07:18:09,779 root INFO Program Fecx_025 stats calculation (in sec.): 1.3521556854248047
+17:12:48,150 root INFO Noise FConst calculation (in sec.): 35678.35882329941
+17:12:48,158 root INFO Noise FConst stats calculation (in sec.): 0.007966995239257812
+17:12:48,941 root INFO Program calculation (in sec.): 57473.56791162491
+20:07:39,796 root INFO Program FHD calculation (in sec.): 127.12437748908997
+20:07:40,56 root INFO Program FHD stats calculation (in sec.): 0.2610011100769043
+20:09:42,736 root INFO Program FHD calculation (in sec.): 250.0649573802948
+20:09:43,113 root INFO Program FHD stats calculation (in sec.): 0.377000093460083
+20:11:26,475 root INFO Program FHD calculation (in sec.): 353.8043053150177
+20:11:26,945 root INFO Program FHD stats calculation (in sec.): 0.4700007438659668
+20:13:24,942 root INFO Program FHD calculation (in sec.): 472.2712163925171
+20:13:25,552 root INFO Program FHD stats calculation (in sec.): 0.6099998950958252
+20:15:31,852 root INFO Program Fx2 calculation (in sec.): 126.29666018486023
+20:15:32,114 root INFO Program Fx2 stats calculation (in sec.): 0.26199889183044434
+20:18:14,150 root INFO Program Fx2 calculation (in sec.): 288.594758272171
+20:18:14,465 root INFO Program Fx2 stats calculation (in sec.): 0.3150007724761963
+20:20:23,2 root INFO Program Fx2 calculation (in sec.): 417.44701051712036
+20:20:23,569 root INFO Program Fx2 stats calculation (in sec.): 0.5669989585876465
+20:23:02,447 root INFO Program Fx2 calculation (in sec.): 576.8917081356049
+20:23:03,79 root INFO Program Fx2 stats calculation (in sec.): 0.6320111751556396
+20:25:11,293 root INFO Program Fx2 calculation (in sec.): 705.7377018928528
+20:25:12,157 root INFO Program Fx2 stats calculation (in sec.): 0.8640456199645996
+20:27:52,36 root INFO Program Fx2 calculation (in sec.): 866.4807951450348
+20:27:52,973 root INFO Program Fx2 stats calculation (in sec.): 0.9370021820068359
+20:30:00,240 root INFO Program Fx2 calculation (in sec.): 994.6845273971558
+20:30:01,366 root INFO Program Fx2 stats calculation (in sec.): 1.1259615421295166
+20:32:37,417 root INFO Program Fx2 calculation (in sec.): 1151.8619377613068
+20:32:38,694 root INFO Program Fx2 stats calculation (in sec.): 1.2770001888275146
+20:34:50,905 root INFO Program F5122subx2 calculation (in sec.): 132.20742440223694
+20:34:51,218 root INFO Program F5122subx2 stats calculation (in sec.): 0.3130013942718506
+20:37:35,583 root INFO Program F5122subx2 calculation (in sec.): 296.8860876560211
+20:37:35,924 root INFO Program F5122subx2 stats calculation (in sec.): 0.3410007953643799
+20:39:47,600 root INFO Program F5122subx2 calculation (in sec.): 428.9027564525604
+20:39:48,160 root INFO Program F5122subx2 stats calculation (in sec.): 0.5600118637084961
+20:42:29,458 root INFO Program F5122subx2 calculation (in sec.): 590.7604665756226
+20:42:30,149 root INFO Program F5122subx2 stats calculation (in sec.): 0.6909973621368408
+20:44:41,325 root INFO Program F5122subx2 calculation (in sec.): 722.6280908584595
+20:44:42,277 root INFO Program F5122subx2 stats calculation (in sec.): 0.9519994258880615
+20:47:25,92 root INFO Program F5122subx2 calculation (in sec.): 886.3946328163147
+20:47:26,91 root INFO Program F5122subx2 stats calculation (in sec.): 0.9987845420837402
+20:49:36,884 root INFO Program F5122subx2 calculation (in sec.): 1018.1867046356201
+20:49:37,945 root INFO Program F5122subx2 stats calculation (in sec.): 1.0609993934631348
+20:52:29,355 root INFO Program F5122subx2 calculation (in sec.): 1190.6580486297607
+20:52:30,718 root INFO Program F5122subx2 stats calculation (in sec.): 1.3620471954345703
+20:54:39,828 root INFO Program Fecx_025 calculation (in sec.): 129.10528683662415
+20:54:40,37 root INFO Program Fecx_025 stats calculation (in sec.): 0.2089998722076416
+20:57:24,332 root INFO Program Fecx_025 calculation (in sec.): 293.6096177101135
+20:57:24,649 root INFO Program Fecx_025 stats calculation (in sec.): 0.3170003890991211
+20:59:34,28 root INFO Program Fecx_025 calculation (in sec.): 423.30571150779724
+20:59:34,481 root INFO Program Fecx_025 stats calculation (in sec.): 0.4530000686645508
+21:02:14,522 root INFO Program Fecx_025 calculation (in sec.): 583.7992413043976
+21:02:15,282 root INFO Program Fecx_025 stats calculation (in sec.): 0.7600018978118896
+21:04:23,759 root INFO Program Fecx_025 calculation (in sec.): 713.0371475219727
+21:04:24,629 root INFO Program Fecx_025 stats calculation (in sec.): 0.8699996471405029
+21:07:05,575 root INFO Program Fecx_025 calculation (in sec.): 874.8526628017426
+21:07:06,566 root INFO Program Fecx_025 stats calculation (in sec.): 0.9907927513122559
+21:09:15,666 root INFO Program Fecx_025 calculation (in sec.): 1004.9436450004578
+21:09:16,961 root INFO Program Fecx_025 stats calculation (in sec.): 1.2950105667114258
+21:11:53,207 root INFO Program Fecx_025 calculation (in sec.): 1162.4851882457733
+21:11:54,451 root INFO Program Fecx_025 stats calculation (in sec.): 1.2439980506896973
+21:39:33,232 root INFO Noise FConst calculation (in sec.): 1658.77623295784
+21:39:33,240 root INFO Noise FConst stats calculation (in sec.): 0.007999658584594727
+21:39:33,446 root INFO Program calculation (in sec.): 5640.971086740494
+01:56:49,592 root INFO Program FHD calculation (in sec.): 1034.3422935009003
+01:56:49,835 root INFO Program FHD stats calculation (in sec.): 0.24299931526184082
+02:04:07,302 root INFO Program FHD calculation (in sec.): 1472.0523326396942
+02:04:07,681 root INFO Program FHD stats calculation (in sec.): 0.37900876998901367
+02:08:40,718 root INFO Program FHD calculation (in sec.): 1745.4682919979095
+02:08:41,199 root INFO Program FHD stats calculation (in sec.): 0.4810497760772705
+02:14:51,540 root INFO Program FHD calculation (in sec.): 2116.289878845215
+02:14:52,472 root INFO Program FHD stats calculation (in sec.): 0.9321925640106201
+02:18:57,9 root INFO Program Fx2 calculation (in sec.): 244.52806568145752
+02:18:57,282 root INFO Program Fx2 stats calculation (in sec.): 0.27300119400024414
+02:29:31,850 root INFO Program Fx2 calculation (in sec.): 879.3690659999847
+02:29:32,265 root INFO Program Fx2 stats calculation (in sec.): 0.41499972343444824
+02:33:31,516 root INFO Program Fx2 calculation (in sec.): 1119.0347831249237
+02:33:32,31 root INFO Program Fx2 stats calculation (in sec.): 0.5150003433227539
+02:41:58,417 root INFO Program Fx2 calculation (in sec.): 1625.9357829093933
+02:41:59,87 root INFO Program Fx2 stats calculation (in sec.): 0.6700005531311035
+02:46:03,849 root INFO Program Fx2 calculation (in sec.): 1871.367784500122
+02:46:04,732 root INFO Program Fx2 stats calculation (in sec.): 0.8828377723693848
+02:55:31,841 root INFO Program Fx2 calculation (in sec.): 2439.359622478485
+02:55:32,755 root INFO Program Fx2 stats calculation (in sec.): 0.9140000343322754
+02:59:25,298 root INFO Program Fx2 calculation (in sec.): 2672.817232131958
+02:59:26,430 root INFO Program Fx2 stats calculation (in sec.): 1.1320009231567383
+03:06:55,298 root INFO Program Fx2 calculation (in sec.): 3122.817232608795
+03:06:56,581 root INFO Program Fx2 stats calculation (in sec.): 1.2830002307891846
+03:12:12,476 root INFO Program F5122subx2 calculation (in sec.): 315.88600039482117
+03:12:12,692 root INFO Program F5122subx2 stats calculation (in sec.): 0.21600008010864258
+03:22:44,907 root INFO Program F5122subx2 calculation (in sec.): 948.3170008659363
+03:22:45,247 root INFO Program F5122subx2 stats calculation (in sec.): 0.3399994373321533
+03:27:21,649 root INFO Program F5122subx2 calculation (in sec.): 1225.0586333274841
+03:27:22,210 root INFO Program F5122subx2 stats calculation (in sec.): 0.5610001087188721
+03:36:00,60 root INFO Program F5122subx2 calculation (in sec.): 1743.4696333408356
+03:36:00,773 root INFO Program F5122subx2 stats calculation (in sec.): 0.7130007743835449
+03:41:18,578 root INFO Program F5122subx2 calculation (in sec.): 2061.987725019455
+03:41:19,415 root INFO Program F5122subx2 stats calculation (in sec.): 0.837012529373169
+03:51:50,700 root INFO Program F5122subx2 calculation (in sec.): 2694.1087262630463
+03:51:51,687 root INFO Program F5122subx2 stats calculation (in sec.): 0.988011360168457
+03:55:53,898 root INFO Program F5122subx2 calculation (in sec.): 2937.307699203491
+03:55:54,980 root INFO Program F5122subx2 stats calculation (in sec.): 1.0819993019104004
+04:04:30,246 root INFO Program F5122subx2 calculation (in sec.): 3453.655728340149
+04:04:31,619 root INFO Program F5122subx2 stats calculation (in sec.): 1.372999668121338
+04:08:33,286 root INFO Program Fecx_025 calculation (in sec.): 241.6580650806427
+04:08:33,489 root INFO Program Fecx_025 stats calculation (in sec.): 0.20299935340881348
+04:19:13,934 root INFO Program Fecx_025 calculation (in sec.): 882.3060643672943
+04:19:14,434 root INFO Program Fecx_025 stats calculation (in sec.): 0.5000002384185791
+04:23:35,875 root INFO Program Fecx_025 calculation (in sec.): 1144.2474608421326
+04:23:36,310 root INFO Program Fecx_025 stats calculation (in sec.): 0.4349997043609619
+04:32:06,108 root INFO Program Fecx_025 calculation (in sec.): 1654.480460882187
+04:32:06,847 root INFO Program Fecx_025 stats calculation (in sec.): 0.7389998435974121
+04:36:10,401 root INFO Program Fecx_025 calculation (in sec.): 1898.7733919620514
+04:36:11,100 root INFO Program Fecx_025 stats calculation (in sec.): 0.6979987621307373
+04:45:46,659 root INFO Program Fecx_025 calculation (in sec.): 2475.0314157009125
+04:45:47,675 root INFO Program Fecx_025 stats calculation (in sec.): 1.0160002708435059
+04:49:37,311 root INFO Program Fecx_025 calculation (in sec.): 2705.6835680007935
+04:49:38,423 root INFO Program Fecx_025 stats calculation (in sec.): 1.1119999885559082
+04:57:20,447 root INFO Program Fecx_025 calculation (in sec.): 3168.8195683956146
+04:57:22,55 root INFO Program Fecx_025 stats calculation (in sec.): 1.608048915863037
+10:08:18,572 root INFO Noise FConst calculation (in sec.): 18656.506321430206
+10:08:18,580 root INFO Noise FConst stats calculation (in sec.): 0.008000850677490234
+10:08:18,819 root INFO Program calculation (in sec.): 30531.21328163147
+10:49:08,943 root INFO Program FHD calculation (in sec.): 312.1889953613281
+10:49:09,205 root INFO Program FHD stats calculation (in sec.): 0.26200056076049805
+10:52:40,124 root INFO Program FHD calculation (in sec.): 523.3699958324432
+10:52:40,499 root INFO Program FHD stats calculation (in sec.): 0.375
+10:55:18,640 root INFO Program FHD calculation (in sec.): 681.8853070735931
+10:55:19,116 root INFO Program FHD stats calculation (in sec.): 0.4760150909423828
+10:58:25,58 root INFO Program FHD calculation (in sec.): 868.3033082485199
+10:58:25,702 root INFO Program FHD stats calculation (in sec.): 0.6448447704315186
+11:01:20,453 root INFO Program Fx2 calculation (in sec.): 174.7441725730896
+11:01:20,681 root INFO Program Fx2 stats calculation (in sec.): 0.22796916961669922
+11:06:28,690 root INFO Program Fx2 calculation (in sec.): 482.98117327690125
+11:06:29,88 root INFO Program Fx2 stats calculation (in sec.): 0.3979973793029785
+11:09:20,793 root INFO Program Fx2 calculation (in sec.): 655.0840961933136
+11:09:21,298 root INFO Program Fx2 stats calculation (in sec.): 0.5049965381622314
+11:13:47,103 root INFO Program Fx2 calculation (in sec.): 921.3940923213959
+11:13:47,775 root INFO Program Fx2 stats calculation (in sec.): 0.6720004081726074
+11:16:41,493 root INFO Program Fx2 calculation (in sec.): 1095.7847373485565
+11:16:42,268 root INFO Program Fx2 stats calculation (in sec.): 0.7749989032745361
+11:21:21,428 root INFO Program Fx2 calculation (in sec.): 1375.7197408676147
+11:21:22,335 root INFO Program Fx2 stats calculation (in sec.): 0.9069957733154297
+11:24:16,162 root INFO Program Fx2 calculation (in sec.): 1550.4537098407745
+11:24:17,273 root INFO Program Fx2 stats calculation (in sec.): 1.110999345779419
+11:28:21,865 root INFO Program Fx2 calculation (in sec.): 1796.156132698059
+11:28:23,141 root INFO Program Fx2 stats calculation (in sec.): 1.2759995460510254
+11:31:23,706 root INFO Program F5122subx2 calculation (in sec.): 180.55707383155823
+11:31:23,914 root INFO Program F5122subx2 stats calculation (in sec.): 0.2089521884918213
+11:36:30,728 root INFO Program F5122subx2 calculation (in sec.): 487.58006262779236
+11:36:31,162 root INFO Program F5122subx2 stats calculation (in sec.): 0.43401432037353516
+11:39:25,285 root INFO Program F5122subx2 calculation (in sec.): 662.137704372406
+11:39:25,839 root INFO Program F5122subx2 stats calculation (in sec.): 0.5540120601654053
+11:44:37,67 root INFO Program F5122subx2 calculation (in sec.): 973.9189841747284
+11:44:37,756 root INFO Program F5122subx2 stats calculation (in sec.): 0.6890108585357666
+11:47:48,580 root INFO Program F5122subx2 calculation (in sec.): 1165.4324917793274
+11:47:49,414 root INFO Program F5122subx2 stats calculation (in sec.): 0.8339996337890625
+11:52:54,929 root INFO Program F5122subx2 calculation (in sec.): 1471.7815210819244
+11:52:55,886 root INFO Program F5122subx2 stats calculation (in sec.): 0.9570000171661377
+11:55:52,101 root INFO Program F5122subx2 calculation (in sec.): 1648.9534344673157
+11:55:53,168 root INFO Program F5122subx2 stats calculation (in sec.): 1.0669994354248047
+12:00:18,59 root INFO Program F5122subx2 calculation (in sec.): 1914.9114346504211
+12:00:19,275 root INFO Program F5122subx2 stats calculation (in sec.): 1.2157979011535645
+12:03:16,477 root INFO Program Fecx_025 calculation (in sec.): 177.1952862739563
+12:03:16,679 root INFO Program Fecx_025 stats calculation (in sec.): 0.20200300216674805
+12:08:27,36 root INFO Program Fecx_025 calculation (in sec.): 487.7543206214905
+12:08:27,359 root INFO Program Fecx_025 stats calculation (in sec.): 0.32300472259521484
+12:11:19,694 root INFO Program Fecx_025 calculation (in sec.): 660.4117987155914
+12:11:20,133 root INFO Program Fecx_025 stats calculation (in sec.): 0.43900060653686523
+12:15:45,543 root INFO Program Fecx_025 calculation (in sec.): 926.2607991695404
+12:15:46,298 root INFO Program Fecx_025 stats calculation (in sec.): 0.755000114440918
+12:18:42,248 root INFO Program Fecx_025 calculation (in sec.): 1102.9658386707306
+12:18:42,948 root INFO Program Fecx_025 stats calculation (in sec.): 0.7000062465667725
+12:23:25,399 root INFO Program Fecx_025 calculation (in sec.): 1386.1168460845947
+12:23:26,384 root INFO Program Fecx_025 stats calculation (in sec.): 0.984999418258667
+12:26:19,172 root INFO Program Fecx_025 calculation (in sec.): 1559.889747619629
+12:26:20,295 root INFO Program Fecx_025 stats calculation (in sec.): 1.1229994297027588
+12:30:29,343 root INFO Program Fecx_025 calculation (in sec.): 1810.0611793994904
+12:30:30,608 root INFO Program Fecx_025 stats calculation (in sec.): 1.2654566764831543
+14:30:54,532 root INFO Noise FConst calculation (in sec.): 7223.9164345264435
+14:30:54,540 root INFO Noise FConst stats calculation (in sec.): 0.007963418960571289
+14:30:54,769 root INFO Program calculation (in sec.): 13629.216222524643
